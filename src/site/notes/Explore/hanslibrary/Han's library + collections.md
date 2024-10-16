@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Han's library + collections.md","permalink":"/han-s-library-collections/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Han's library + collections.md","permalink":"/han-s-library-collections/","contentClasses":"portals.css","tags":["gardenEntry"]}
 ---
 
 <div class="portals-container"><span></span><div class="portals"><span><h1 data-heading=":LiLibrary: the Library" dir="auto"><span class="cm-iconize-icon" aria-label="LiLibrary" data-icon="LiLibrary" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="28.832px" height="28.832px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-library"><path d="m16 6 4 14"></path><path d="M12 6v14"></path><path d="M8 8v12"></path><path d="M4 4v16"></path></svg></span> the Library</h1>
@@ -11,7 +11,7 @@
 
 
 
-#### Quick Links 
+### Quick Links 
 - [[Explore/hanslibrary/Waypoint/Quests\|Quests]]
 - [[Books\|Books]]
 - [[Projects\|Projects]]
@@ -27,7 +27,7 @@
 ---
 
 
-#### Recently Created 
+### Recently Created 
 - [[Explore/hanslibrary/synthesis\|synthesis]]
 - [[Explore/hanslibrary/photography\|photography]]
 - [[Explore/hanslibrary/research\|research]]
@@ -37,17 +37,17 @@
 - [[Cortex/Genesis/Life Codex\|Life Codex]]
 
 { .block-language-dataview}
-#### Recently Updated
-- [[Explore/hanslibrary/synthesis\|synthesis]]
-- [[Explore/hanslibrary/photography\|photography]]
-- [[Explore/hanslibrary/research\|research]]
+### Recently Updated
 - [[Explore/hanslibrary/Han's library + collections\|Han's library + collections]]
+- [[Explore/hanslibrary/photography\|photography]]
+- [[Explore/hanslibrary/synthesis\|synthesis]]
+- [[Explore/hanslibrary/research\|research]]
 - [[Explore/hanslibrary/writings\|writings]]
 - [[Cortex/Genesis/Atlas and MOC\|Atlas and MOC]]
 - [[Cortex/Lifebook/2024-10-16\|2024-10-16]]
 
 { .block-language-dataview}
-#### Quick Links 
+### Quick Links 
 - [[Waypoint/Quest Guide\|Quest Guide]]
 - [[Books\|Books]]
 - [[Projects\|Projects]]
