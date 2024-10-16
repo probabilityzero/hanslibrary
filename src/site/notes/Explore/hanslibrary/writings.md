@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Han's library + collections.md","permalink":"/han-s-library-collections/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"writings.md","permalink":"/writings/"}
 ---
 
 <div class="portals-container"><span></span><div class="portals"><span><h1 data-heading=":LiLibrary: the Library" dir="auto"><span class="cm-iconize-icon" aria-label="LiLibrary" data-icon="LiLibrary" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="28.832px" height="28.832px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-library"><path d="m16 6 4 14"></path><path d="M12 6v14"></path><path d="M8 8v12"></path><path d="M4 4v16"></path></svg></span> the Library</h1>
@@ -9,47 +9,3 @@
 <p dir="auto">Game + Characters</p></span></div><div class="portals"><span><h1 data-heading=":LiCamera: Photography" dir="auto"><span class="cm-iconize-icon" aria-label="LiCamera" data-icon="LiCamera" aria-hidden="true" style="display: inline-flex; transform: translateY(13%);"><svg xmlns="http://www.w3.org/2000/svg" width="28.832px" height="28.832px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-camera"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"></path><circle cx="12" cy="13" r="3"></circle></svg></span> Photography</h1>
 <p dir="auto">Real-life + Visual Journey</p></span></div></div>
 
-
-
-#### Quick Links 
-- [[Explore/hanslibrary/Waypoint/Quests\|Quests]]
-- [[Books\|Books]]
-- [[Projects\|Projects]]
-- [[Adventures\|Adventures]]
-
-
----
-# [[Waypoint/Bookshelf\|Books Readings]]
-| Title | Author | Status | Open |
-| ----- | ------ | ------ | ---- |
-
-{ .block-language-dataview}
----
-
-
-#### Recently Created 
-- [[Explore/hanslibrary/synthesis\|synthesis]]
-- [[Explore/hanslibrary/photography\|photography]]
-- [[Explore/hanslibrary/research\|research]]
-- [[Explore/hanslibrary/writings\|writings]]
-- [[Cortex/Utilities/Excalidraw/castleblueprints.excalidraw\|castleblueprints.excalidraw]]
-- [[Cortex/Lifebook/2024-10-12 (41W)\|2024-10-12 (41W)]]
-- [[Cortex/Genesis/Life Codex\|Life Codex]]
-
-{ .block-language-dataview}
-#### Recently Updated
-- [[Explore/hanslibrary/synthesis\|synthesis]]
-- [[Explore/hanslibrary/photography\|photography]]
-- [[Explore/hanslibrary/research\|research]]
-- [[Explore/hanslibrary/Han's library + collections\|Han's library + collections]]
-- [[Explore/hanslibrary/writings\|writings]]
-- [[Cortex/Genesis/Atlas and MOC\|Atlas and MOC]]
-- [[Cortex/Lifebook/2024-10-16\|2024-10-16]]
-
-{ .block-language-dataview}
-#### Quick Links 
-- [[Waypoint/Quest Guide\|Quest Guide]]
-- [[Books\|Books]]
-- [[Projects\|Projects]]
-- [[Adventures\|Adventures]]
-- [[Cortex/Utilities/Databank/Universities Info/KU Leuven/Law/Notes\|Notes]]
