@@ -1,0 +1,34 @@
+.portals-container {
+  display: flex;
+  overflow-x: auto; /* Enables horizontal scrolling */
+  padding: 2px; /* Add some padding around the container */
+  scroll-snap-type: x mandatory; /* Enables smooth snapping */
+}
+
+.portals {
+  background-color: #f9f9f9;
+  border-radius: 1px;
+  padding: 20px;
+  margin: 2px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  flex: 0 0 auto; /* Prevents shrinking and allows horizontal layout */
+  scroll-snap-align: start; /* Aligns cards to start on scroll */
+}
+
+.portals:hover {
+  transform: scale(1.01);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.portals h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.portals p {
+  font-size: 14px;
+  color: #555;
+}
