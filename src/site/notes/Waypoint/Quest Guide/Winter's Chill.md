@@ -15,7 +15,7 @@
 
 > [!example]+ Act II: The Snowbound Pages
 >    With the books gathered, Dream delves into their pages. Each tome unveils a world of knowledge bound by winter's stillness.
->- [ ] Book I: [[The Stone Diaries - Carol Shields\|The Stone Diaries - Carol Shields]]
+>- [ ] Book I: [[Library/Alps & Meadows/Novels/Novel/The Stone Diaries - Carol Shields\|The Stone Diaries - Carol Shields]]
 >- [ ] Book II: [[The Setting Sun - Osamu Dazai \|The Setting Sun - Osamu Dazai ]]
 >- [ ] Book III: [[Whispers in the Graveyard - Theresa Breslin\|Whispers in the Graveyard - Theresa Breslin]]
 >- [ ] Book IV: 
