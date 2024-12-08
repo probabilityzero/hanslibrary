@@ -32,11 +32,11 @@
 
 > [!files]- Recently Updated
 > 
->  - [[Library/Alps & Meadows/Novels/Domestic/Celestial Bodies - Johka Alharthi\|Celestial Bodies - Johka Alharthi]]
-> - [[Library/Alps & Meadows/Novels/Family Saga/The Thorn Birds - Colleen McCullough\|The Thorn Birds - Colleen McCullough]]
-> - [[Library/Alps & Meadows/Novels/Juvenile/Kiki's Delivery Service - Eiko Kadono\|Kiki's Delivery Service - Eiko Kadono]]
-> - [[Library/Alps & Meadows/Plays/Alcestis - Katharine Beutner\|Alcestis - Katharine Beutner]]
-> - [[Portfolio/Websites/hanslibrary/hanslibrary\|hanslibrary]]
+>  - [[Waypoint/Quest Guide/Quest Guide\|Quest Guide]]
+> - [[Waypoint/Quest Guide/Competitive Programming First Steps\|Competitive Programming First Steps]]
+> - [[Waypoint/Quest Guide/Whispers of Autumn's Pages\|Whispers of Autumn's Pages]]
+> - [[Waypoint/Quest Guide/BCIBF - YEAR 1\|BCIBF - YEAR 1]]
+> - [[Library/Alps & Meadows/Novels/Domestic/Celestial Bodies - Johka Alharthi\|Celestial Bodies - Johka Alharthi]]
 > 
 { .block-language-dataview}
 
