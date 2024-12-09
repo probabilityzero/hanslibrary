@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/waypoint/quest-guide/quest-guide/"}
 ---
 
-# :LiMoonStar: Quests Guide
+# quest guide
 
-|  :LiMoonStar: Quest                                                                                  | Status     |
+| Quest                                                                                                | Status     |
 | ---------------------------------------------------------------------------------------------------- | ---------- |
 | [[Waypoint/Quest Guide/Competitive Programming First Steps\|Competitive Programming First Steps]] | InProgress |
 | [[Waypoint/Quest Guide/Dorin\|Dorin]]                                                             | InProgress |

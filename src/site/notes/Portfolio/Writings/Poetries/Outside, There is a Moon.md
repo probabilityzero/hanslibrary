@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Poetry Collection /Outside, There is a Moon.md","permalink":"/poetry-collection/outside-there-is-a-moon/"}
+{"dg-publish":true,"dg-path":"Poetry Collection /Outside, There is a Moon.md","permalink":"/poetry-collection/outside-there-is-a-moon/","tags":["Poetries"]}
 ---
 
-#LiteraryArt #Poetries
+#LiteraryArt
 
 > [!Quote] Damian 
 > Outside, there is a moon.

@@ -3,7 +3,7 @@
 ---
 
 
-# [[Library/Library\| Bookshelf]]  |  [[Waypoint/Quest Guide/Quest Guide\|Quest Guide]]
+# [[Library/Library\| Bookshelf]]  |  [[Waypoint/Quest Guide/Quest Guide\|Quest Guide]]  | [[Portfolio/Websites/hanslibrary/writings\|Writings]]
 
 ![hanslibrary_banner.jpg](/img/user/Cortex/Utilities/Archive/Attachments/hanslibrary_banner.jpg)
 
