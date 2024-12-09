@@ -11,6 +11,7 @@
 > [!example] Quick Links 
 > - [[Cortex/Genesis/Reading list\|Reading list]]
 > - [[Eκμάδεση/Eκμάδεση\|Eκμάδεση]]
+> - [[Cortex/Genesis/Python Libraries Code\|Python Libraries Code]]
 
 
 
