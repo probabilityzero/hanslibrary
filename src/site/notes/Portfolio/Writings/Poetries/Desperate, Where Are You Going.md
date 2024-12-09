@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-path":"Poetry Collection /Desperate, Where Are You Going.md","permalink":"/poetry-collection/desperate-where-are-you-going/","tags":["Poetries"]}
 ---
 
-#LiteraryArt
-
 > [!QUOTE] Damian
 > Today, you looked in the mirror,
 > And you felt sad; you were alone.

@@ -72,5 +72,3 @@ Here is the updated list with the libraries and their respective API documentati
 - **Description**: A modern web framework for building APIs with Python, designed to be fast and easy to use with automatic documentation.
 - **Source Code**: [FastAPI GitHub Repository](https://github.com/tiangolo/fastapi)
 - **API Documentation**: [FastAPI API Documentation](https://fastapi.tiangolo.com/)
-
-This updated list includes all libraries with their API documentation links for easy reference.
