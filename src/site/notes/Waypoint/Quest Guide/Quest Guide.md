@@ -18,7 +18,7 @@
 
 
 ### See more
-- [[Cortex/Genesis/Quest toolkits\|Quest toolkits]]
+- [[Waypoint/Utilities/Quest toolkits\|Quest toolkits]]
 
 
 

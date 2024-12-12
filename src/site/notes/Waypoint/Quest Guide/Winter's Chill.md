@@ -4,7 +4,7 @@
 
 # "Whispers of Winter's Chill"
 
-   As snowflakes fall silently, ancient books murmur hidden tales. [[Waypoint/Tree of Life/Dream\|Dream]] embarks on a quest to uncover the lost volumes of literature buried under winter’s frost, unlocking their mysteries and wisdom with each page.
+   As snowflakes fall silently, ancient books murmur hidden tales. [[Waypoint/Character/Dream\|Dream]] embarks on a quest to uncover the lost volumes of literature buried under winter’s frost, unlocking their mysteries and wisdom with each page.
 
 # Quest Objectives
 

@@ -5,7 +5,7 @@
 
 # "Ascension of French Fluency (Part 1: A1 & A2)"
 
-[[Waypoint/Tree of Life/Vincent\|Vincent]] embarks on the journey to master the fundamentals of the French language. Part 1 of this journey includes A1 and A2 levels, providing the foundations of reading, speaking, writing, and listening comprehension. Through structured lessons, immersive practice, and constant revision, Vincent will gain confidence in everyday French communication.
+[[Waypoint/Character/Vincent\|Vincent]] embarks on the journey to master the fundamentals of the French language. Part 1 of this journey includes A1 and A2 levels, providing the foundations of reading, speaking, writing, and listening comprehension. Through structured lessons, immersive practice, and constant revision, Vincent will gain confidence in everyday French communication.
 
 ---
 

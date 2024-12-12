@@ -4,7 +4,7 @@
 
 # "Whispers of Autumn's Pages"
 
-   As the leaves turn gold, the ancient books whisper their secrets. [[Waypoint/Tree of Life/Dream\|Dream]] embarks on a journey to locate and relish the lost tomes of literature hidden throughout the land, unlocking their dreams and gaining wisdom along the way.
+   As the leaves turn gold, the ancient books whisper their secrets. [[Waypoint/Character/Dream\|Dream]] embarks on a journey to locate and relish the lost tomes of literature hidden throughout the land, unlocking their dreams and gaining wisdom along the way.
    
 # Quest Objectives
 
