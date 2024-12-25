@@ -17,6 +17,39 @@
 - [ ] *Differential Equations with Boundary-Value Problems* by Dennis G. Zill, Michael R. Cullen 
 - [ ] *Complex Analysis* by Lars Ahlfors 
 
+---
+**Probability and Statistics** 
+
+**Foundation**
+- [ ] _A First Course in Probability_ by Sheldon Ross  
+- [ ] _Schaum's Outline of Probability and Statistics_ by John Schiller et al.  
+- [ ] _Introduction to Probability_ by Joseph K. Blitzstein and Jessica Hwang  
+- [ ] _The Art of Probability_ by Richard W. Hamming  
+- [ ] _Probability and Statistics: The Science of Uncertainty_ by Michael J. Evans and Jeffrey S. Rosenthal  
+
+**Intermediate**
+- [ ] _Statistics: Unlocking the Power of Data_ by Robin H. Lock, Patti Frazer Lock, and Trevor L. Gardner  
+- [ ] _Problems in Probability_ by R.M. Dudley  
+- [ ] _Introduction to the Theory of Statistics_ by Alexander M. Mood, Franklin A. Graybill, and Duane C. Boes  
+
+**Advanced**
+- [ ] _Problems and Solutions in Probability and Statistics_ by M.K. Sen  
+- [ ] _Probability and Statistics Problems and Solutions_ by M. J. S. Smith  
+- [ ] _Practical Statistics for Data Scientists_ by Peter Bruce and Andrew Bruce  
+- [ ] _The Probability and Statistics Companion_ by Christopher A. Pickles  
+
+**Application Based**
+- [ ] _Data Science for Business_ by Foster Provost and Tom Fawcett  
+- [ ] _Statistics for Business and Economics_ by Paul Newbold et al.  
+- [ ] _Exercises in Probability_ by Michel Loève  
+- [ ] **[Brilliant.org](https://www.brilliant.org)**: Offers problem-solving-based learning in both probability and statistics.
+- [ ] **[Project Euler](https://projecteuler.net/)**: Apply statistics and probability in programming challenges.
+- [ ] **[Khan Academy](https://www.khanacademy.org/math/statistics-probability)**: Interactive exercises and step-by-step solutions for probability and statistics.
+
+
+---
+
+
 **Artificial Intelligence and Machine Learning** 
 - [ ] *Deep Learning with Python* by François Chollet
 - [x] *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron
@@ -109,8 +142,3 @@
 - [ ] *Elements of Information Theory* by Thomas M. Cover, Joy A. Thomas 
 - [ ] *Statistical Learning Theory* by Vladimir N. Vapnik
 
-[[Cortex/Genesis/Reading List 1.0\|Reading List 1.0]]
-[[Cortex/Genesis/Probability and Statistics books\|Probability and Statistics books]]
-#readinglist 
-
-[[Ms Financial Eng Books\|Ms Financial Eng Books]]

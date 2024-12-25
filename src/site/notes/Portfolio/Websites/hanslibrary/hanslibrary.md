@@ -3,13 +3,9 @@
 ---
 
 > [!example]- Quick Access 
->  - [[Library/Knowledge Glory/Reading list\|Reading list]]
-> - [[Cortex/Lifebook/Lifebook\|Lifebook]]
-> - [[Cortex/Notebook/Index/Finance\|Finance]]
-> - [[Cortex/Notebook/Index/Mathematics\|Mathematics]]
-> - [[Cortex/Notebook/TensorFlow\|TensorFlow]]
-> - [[Cortex/Notebook/Machine Learning\|Machine Learning]]
+>  - [[Cortex/Lifebook/Lifebook\|Lifebook]]
 > - [[Eκμάδεση/Eκμάδεση\|Eκμάδεση]]
+> - [[Library/Knowledge Glory/Reading list\|Reading list]]
 > 
 { .block-language-dataview}
 

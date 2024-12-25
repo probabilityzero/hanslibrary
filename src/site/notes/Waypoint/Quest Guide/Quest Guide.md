@@ -18,7 +18,7 @@
 
 
 ### See more
-- [[Waypoint/Utilities/Quest toolkits\|Quest toolkits]]
+- [[Waypoint/Utilities/Archive/Quest toolkits\|Quest toolkits]]
 
 
 
