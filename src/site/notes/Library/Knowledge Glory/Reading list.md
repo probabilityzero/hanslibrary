@@ -23,21 +23,17 @@
 - [x] _Introduction to Probability_ by Joseph K. Blitzstein and Jessica Hwang  
 - [ ] _The Art of Probability_ by Richard W. Hamming  
 - [ ] _Probability and Statistics: The Science of Uncertainty_ by Michael J. Evans and Jeffrey S. Rosenthal  
-
 - [x] _Statistics: Unlocking the Power of Data_ by Robin H. Lock, Patti Frazer Lock, and Trevor L. Gardner  
 - [ ] _Problems in Probability_ by R.M. Dudley  
 - [ ] _Introduction to the Theory of Statistics_ by Alexander M. Mood, Franklin A. Graybill, and Duane C. Boes  
-
 - [ ] _Problems and Solutions in Probability and Statistics_ by M.K. Sen  
 - [ ] _Probability and Statistics Problems and Solutions_ by M. J. S. Smith  
 - [ ] _Practical Statistics for Data Scientists_ by Peter Bruce and Andrew Bruce  
 - [ ] _The Probability and Statistics Companion_ by Christopher A. Pickles  
-
 - [ ] _Statistics for Business and Economics_ by Paul Newbold et al.  
 - [ ] _Exercises in Probability_ by Michel Loève  
 - [ ] **[Project Euler](https://projecteuler.net/)**: Apply statistics and probability in programming challenges.
 - [ ] **[Khan Academy](https://www.khanacademy.org/math/statistics-probability)**: Interactive exercises and step-by-step solutions for probability and statistics.
-
 
 ---
 
