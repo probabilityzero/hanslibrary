@@ -4,58 +4,49 @@
 
 # #readinglist 
 
-**Mathematics for Machine Learning and AI** 
+**Mathematics for Machine Learning and Data Science** 
 - [x] *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 - [x] *Linear Algebra Done Right* by Sheldon Axler
 - [ ] *Principles of Mathematical Analysis* by Walter Rudin 
 - [ ] *Convex Optimization* by Stephen Boyd, Lieven Vandenberghe 
-- [ ] *Introduction to Probability* by Dimitri P. Bertsekas, John N. Tsitsiklis 
+- [x] *Introduction to Probability* by Dimitri P. Bertsekas, John N. Tsitsiklis 
 - [ ] *Stochastic Processes* by Sheldon Ross 
-- [ ] *Numerical Linear Algebra* by Lloyd N. Trefethen, David Bau III 
+- [x] *Numerical Linear Algebra* by Lloyd N. Trefethen, David Bau III 
 - [ ] *Numerical Optimization* by Jorge Nocedal, Stephen Wright 
 - [ ] *Graph Theory* by Reinhard Diestel 
-- [ ] *Differential Equations with Boundary-Value Problems* by Dennis G. Zill, Michael R. Cullen 
+- [x] *Differential Equations with Boundary-Value Problems* by Dennis G. Zill, Michael R. Cullen 
 - [ ] *Complex Analysis* by Lars Ahlfors 
 
----
 **Probability and Statistics** 
-
-**Foundation**
-- [ ] _A First Course in Probability_ by Sheldon Ross  
+- [x] _A First Course in Probability_ by Sheldon Ross  
 - [ ] _Schaum's Outline of Probability and Statistics_ by John Schiller et al.  
-- [ ] _Introduction to Probability_ by Joseph K. Blitzstein and Jessica Hwang  
+- [x] _Introduction to Probability_ by Joseph K. Blitzstein and Jessica Hwang  
 - [ ] _The Art of Probability_ by Richard W. Hamming  
 - [ ] _Probability and Statistics: The Science of Uncertainty_ by Michael J. Evans and Jeffrey S. Rosenthal  
 
-**Intermediate**
-- [ ] _Statistics: Unlocking the Power of Data_ by Robin H. Lock, Patti Frazer Lock, and Trevor L. Gardner  
+- [x] _Statistics: Unlocking the Power of Data_ by Robin H. Lock, Patti Frazer Lock, and Trevor L. Gardner  
 - [ ] _Problems in Probability_ by R.M. Dudley  
 - [ ] _Introduction to the Theory of Statistics_ by Alexander M. Mood, Franklin A. Graybill, and Duane C. Boes  
 
-**Advanced**
 - [ ] _Problems and Solutions in Probability and Statistics_ by M.K. Sen  
 - [ ] _Probability and Statistics Problems and Solutions_ by M. J. S. Smith  
 - [ ] _Practical Statistics for Data Scientists_ by Peter Bruce and Andrew Bruce  
 - [ ] _The Probability and Statistics Companion_ by Christopher A. Pickles  
 
-**Application Based**
-- [ ] _Data Science for Business_ by Foster Provost and Tom Fawcett  
 - [ ] _Statistics for Business and Economics_ by Paul Newbold et al.  
 - [ ] _Exercises in Probability_ by Michel Loève  
-- [ ] **[Brilliant.org](https://www.brilliant.org)**: Offers problem-solving-based learning in both probability and statistics.
 - [ ] **[Project Euler](https://projecteuler.net/)**: Apply statistics and probability in programming challenges.
 - [ ] **[Khan Academy](https://www.khanacademy.org/math/statistics-probability)**: Interactive exercises and step-by-step solutions for probability and statistics.
 
 
 ---
 
-
 **Artificial Intelligence and Machine Learning** 
 - [ ] *Deep Learning with Python* by François Chollet
 - [x] *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron
 - [x] *Python Machine Learning* by Sebastian Raschka, Vahid Mirjalili
 - [x] *Pattern Recognition and Machine Learning* by Christopher M. Bishop
-- [ ] *Artificial Intelligence: A Modern Approach* by Stuart Russell, Peter Norvig
+- [x] *Artificial Intelligence: A Modern Approach* by Stuart Russell, Peter Norvig
 - [ ] *Probabilistic Machine Learning* by Kevin P. Murphy
 - [ ] *Deep Reinforcement Learning Hands-On* by Maxim Lapan
 - [ ] *Probabilistic Graphical Models* by Daphne Koller, Nir Friedman
@@ -74,9 +65,9 @@
 
 **Business Analytics and Strategy** 
 - [ ] *Competing on Analytics* by Thomas H. Davenport, Jeanne G. Harris 
-- [ ] *Predictive Analytics: The Power to Predict* by Eric Siegel 
-- [ ] *Data Smart* by John W. Foreman 
-- [ ] *Business Intelligence Guidebook* by Rick Sherman 
+- [x] *Predictive Analytics: The Power to Predict* by Eric Siegel 
+- [x] *Data Smart* by John W. Foreman 
+- [x] *Business Intelligence Guidebook* by Rick Sherman 
 - [ ] *Analytics at Work* by Thomas H. Davenport, Jeanne G. Harris, Robert Morison 
 
 **Finance and Investment** 
