@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/library/knowledge-glory/reading-list/"}
+{"dg-publish":true,"permalink":"/library/knowledge-glory/reading-list/","tags":["readinglist"]}
 ---
 
-# #readinglist 
+# Reading List 
 
 **Mathematics for Machine Learning and Data Science** 
 - [x] *Mathematics for Machine Learning* by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
