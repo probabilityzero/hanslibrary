@@ -18,7 +18,7 @@
 >- [ ] Book I: [[Library/Alps & Meadows/Novels/Novel/The Stone Diaries - Carol Shields\|The Stone Diaries - Carol Shields]]
 >- [ ] Book II: [[The Setting Sun - Osamu Dazai \|The Setting Sun - Osamu Dazai ]]
 >- [ ] Book III: [[Whispers in the Graveyard - Theresa Breslin\|Whispers in the Graveyard - Theresa Breslin]]
->- [ ] Book IV: 
+>- [x] Book IV: [[Library/Alps & Meadows/Novels/Family Saga/Please Look After Mom A Novel - Kyung-Sook Shin\|Please Look After Mom A Novel - Kyung-Sook Shin]]
 >- [ ] Book V: 
 >- [ ] Book VI: 
 >- [ ] Book VII: 
