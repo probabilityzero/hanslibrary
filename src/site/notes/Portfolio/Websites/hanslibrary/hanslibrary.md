@@ -4,7 +4,6 @@
 
 > [!example]- Quick Access 
 >  - [[Cortex/Lifebook/Lifebook\|Lifebook]]
-> - [[Eκμάδεση/Eκμάδεση\|Eκμάδεση]]
 > - [[Library/Knowledge Glory/Reading list\|Reading list]]
 > 
 { .block-language-dataview}

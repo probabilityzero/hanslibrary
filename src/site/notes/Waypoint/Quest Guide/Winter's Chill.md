@@ -18,7 +18,7 @@
 >- [ ] Book I: [[Library/Alps & Meadows/Novels/Novel/The Stone Diaries - Carol Shields\|The Stone Diaries - Carol Shields]]
 >- [ ] Book II: [[The Setting Sun - Osamu Dazai \|The Setting Sun - Osamu Dazai ]]
 >- [ ] Book III: [[Whispers in the Graveyard - Theresa Breslin\|Whispers in the Graveyard - Theresa Breslin]]
->- [x] Book IV: [[Library/Alps & Meadows/Novels/Family Saga/Please Look After Mom A Novel - Kyung-Sook Shin\|Please Look After Mom A Novel - Kyung-Sook Shin]]
+>- [x] Book IV: [[Please Look After Mom A Novel - Kyung-Sook Shin\|Please Look After Mom A Novel - Kyung-Sook Shin]]
 >- [ ] Book V: 
 >- [ ] Book VI: 
 >- [ ] Book VII: 
@@ -36,8 +36,8 @@ Deadline: [[2025-01-15\|2025-01-15]]
 
 # Quest Logs 
 ---
-- Kyrgyz suggested The Snow Child for its winter theme—it’s enchanting.
-- Smith is intrigued by Douglas’s book after I mentioned it; he seems puzzled but interested.
+- who the hell suggested the stone diaries 
+- 
 
 ---
 # Quest Rewards
