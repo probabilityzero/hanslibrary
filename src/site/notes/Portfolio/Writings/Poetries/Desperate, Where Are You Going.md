@@ -23,7 +23,6 @@
 > Your beloved, so beloved.
 
 
----
 
 [Telegram](https://t.me/psycherelics/266)
 
