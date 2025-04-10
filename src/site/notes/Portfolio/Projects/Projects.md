@@ -27,6 +27,8 @@
 | [[Portfolio/Projects/Text Analysis\|Text Analysis]]                                     | Completed |
 | [[Portfolio/Projects/Portfolio & Collection Platform\|Portfolio & Collection Platform]] | Idea      |
 | [[Portfolio/Projects/Scholarly\|Scholarly]]                                             | Focus     |
+| [[Portfolio/Projects/Email Hosting\|Email Hosting]]                                     | Idea      |
+| [[Portfolio/Websites/K_Sentient/K_Sentient\|K_Sentient]]                                | Completed |
 
 { .block-language-dataview}
 
