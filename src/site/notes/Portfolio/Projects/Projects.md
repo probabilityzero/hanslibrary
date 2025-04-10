@@ -23,10 +23,10 @@
 | [[Portfolio/Projects/Evening News (Dear World)\|Evening News (Dear World)]]             | Idea      |
 | [[Portfolio/Projects/Task Force Monitor\|Task Force Monitor]]                           | Completed |
 | [[Waypoint/Utilities/Templates/ProjectsTemplate\|ProjectsTemplate]]                     | Idea      |
-| [[Portfolio/Projects/Scholarly\|Scholarly]]                                             | Focus     |
-| [[Portfolio/Projects/Portfolio & Collection Platform\|Portfolio & Collection Platform]] | Idea      |
 | [[Portfolio/Projects/K_Sentient\|K_Sentient]]                                           | Completed |
 | [[Portfolio/Projects/Text Analysis\|Text Analysis]]                                     | Completed |
+| [[Portfolio/Projects/Portfolio & Collection Platform\|Portfolio & Collection Platform]] | Idea      |
+| [[Portfolio/Projects/Scholarly\|Scholarly]]                                             | Focus     |
 
 { .block-language-dataview}
 
