@@ -3,8 +3,9 @@
 ---
 
 > [!example]- Quick Access 
->  - [[Cortex/Lifebook/Lifebook\|Lifebook]]
+>  - [[Portfolio/Projects/Scholarly\|Scholarly]]
 > - [[Library/Knowledge Glory/Reading list\|Reading list]]
+> - [[Cortex/Lifebook/Lifebook\|Lifebook]]
 > 
 { .block-language-dataview}
 
