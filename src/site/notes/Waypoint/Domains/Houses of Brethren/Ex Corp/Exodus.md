@@ -4,7 +4,7 @@
 
 
 
-## **Now Enter: _Exodus_**
+## **Now Entering: _Exodus_**
 
 > An Operating System for Logistics and Transportation  
 
@@ -25,42 +25,37 @@ It’s the **“mission control + operating system”** for freight logistics an
 ---
 
 ## **Main Suites/Modules Inside Exodus**
-
+> ![](https://shipsy.io/wp-content/uploads/2023/03/imgonline-com-ua-CompressToSize-lZe4QGDFaXO.jpg)
 ### **1. Command & Control Suite**
-
-> Real-time monitoring, route planning, mission execution
+*Real-time monitoring, route planning, mission execution
 
 - Fleet map dashboard (land/sea/air/orbit)
 - Live cargo location and status
 - Custom geofencing and alert systems
 
 ### **2. Dispatch & Routing Suite**
-
-> Dynamic tasking, route optimization, job allocation
+*Dynamic tasking, route optimization, job allocation
 
 - AI-powered route planner
 - Traffic/weather/airspace integration
 - Multi-modal transport planning
 
 ### **3. Warehouse & Fulfillment Suite**
-
-> Intelligent warehousing, inventory tracking, automation control
+*Intelligent warehousing, inventory tracking, automation control
 
 - Smart shelving/robot orchestration
 - Pick-pack-ship dashboards
 - Cold chain monitoring
 
 ### **4. Energy & Refueling Suite**
-
-> Power flow management across vehicles, hubs, and infrastructure
+*Power flow management across vehicles, hubs, and infrastructure
 
 - EV + hydrogen charge schedules
 - Depot power optimization
 - Smart-grid interaction
 
 ### **5. Finance & Trade Suite**
-
-> Freight finance, smart billing, tokenized contracts
+*Freight finance, smart billing, tokenized contracts
 
 - Smart contract generation
 - Crypto/fiat hybrid payment processing
@@ -68,23 +63,17 @@ It’s the **“mission control + operating system”** for freight logistics an
 
 ### **6. AI & Forecasting Suite**
 
-> Predictive intelligence + real-time decision support
-
 - Cargo demand prediction
 - Conflict/weather disruption modeling
 - Reinforcement learning for route evolution
 
 ### **7. IoT & Telemetry Suite**
 
-> Sensor networks, health diagnostics, cargo security
-
 - Sensor data dashboard (temp, shock, breach)
 - Vehicle diagnostic monitoring
 - Automated risk alerts
 
 ### **8. Developer Suite**
-
-> APIs, SDKs, white-label interfaces for partners
 
 - Open API gateway
 - Data stream integration tools
