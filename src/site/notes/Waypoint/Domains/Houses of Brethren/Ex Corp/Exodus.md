@@ -92,8 +92,6 @@ It’s the **“mission control + operating system”** for freight logistics an
 
 ---
 
-## **Bonus: UI/UX Design Language**
-
 - Unified design system across all apps
 - Modular interface: cards, drag-and-drop widgets, map overlays
 - Real-time mode vs simulation mode
