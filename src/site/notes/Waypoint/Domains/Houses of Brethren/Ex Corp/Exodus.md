@@ -27,35 +27,35 @@ It’s the **“mission control + operating system”** for freight logistics an
 ## **Main Suites/Modules Inside Exodus**
 > ![](https://shipsy.io/wp-content/uploads/2023/03/imgonline-com-ua-CompressToSize-lZe4QGDFaXO.jpg)
 ### **1. Command & Control Suite**
-*Real-time monitoring, route planning, mission execution
+*Real-time monitoring, route planning, mission execution*
 
 - Fleet map dashboard (land/sea/air/orbit)
 - Live cargo location and status
 - Custom geofencing and alert systems
 
 ### **2. Dispatch & Routing Suite**
-*Dynamic tasking, route optimization, job allocation
+*Dynamic tasking, route optimization, job allocation*
 
 - AI-powered route planner
 - Traffic/weather/airspace integration
 - Multi-modal transport planning
 
 ### **3. Warehouse & Fulfillment Suite**
-*Intelligent warehousing, inventory tracking, automation control
+*Intelligent warehousing, inventory tracking, automation control*
 
 - Smart shelving/robot orchestration
 - Pick-pack-ship dashboards
 - Cold chain monitoring
 
 ### **4. Energy & Refueling Suite**
-*Power flow management across vehicles, hubs, and infrastructure
+*Power flow management across vehicles, hubs, and infrastructure*
 
 - EV + hydrogen charge schedules
 - Depot power optimization
 - Smart-grid interaction
 
 ### **5. Finance & Trade Suite**
-*Freight finance, smart billing, tokenized contracts
+*Freight finance, smart billing, tokenized contracts*
 
 - Smart contract generation
 - Crypto/fiat hybrid payment processing
