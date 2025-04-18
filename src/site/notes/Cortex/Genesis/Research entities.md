@@ -30,6 +30,7 @@ This the umbrella organization for funding and that will incorporate:
 		- Storage
 		- Co-lab on specific files or directories 
 
+
 - REVER Engine
 	- [[Portfolio/Projects/Cellverse\|Cellverse]]
 
@@ -40,5 +41,4 @@ This a separate entity representing the research institutions. These institution
 
 ## **Publications & Dissemination** 
 It can either be integrated with Foundation or managed separately. They represent the diverse channels where research outputs are published, archived, and disseminated repositories, depending on the structure of ecosystem. Future thingy.
-
 
