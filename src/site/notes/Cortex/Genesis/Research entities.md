@@ -7,10 +7,10 @@
 This the umbrella organization for funding and that will incorporate:
 
 - [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
-	- Summariser 
-- [[Waypoint/Domains/The Foundation/Educational Board and Institutions/DID SSI\|DID SSI]];
+	- Summarise 
+- [[Waypoint/Domains/The Foundation/Educational Board and Institutions/DID SSI\|DID SSI]]: Authors ID Database, integrated for authentication.
 
-- [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Encyclopedia for Integrated Knowledge\|Encyclopedia for Integrated Knowledge]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of scholarly insight.
+- [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Encyclopedia for Integrated Knowledge\|Encyclopedia for Integrated Knowledge]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
 
 ## The House of El
 #### [[Waypoint/Domains/House of El Han/Han's Labs/Han's Labs\|Han's Labs]]
@@ -42,5 +42,4 @@ This a separate entity representing the research institutions. These institution
 
 ## **Publications & Dissemination** 
 It can either be integrated with Foundation or managed separately. They represent the diverse channels where research outputs are published, archived, and disseminated repositories, depending on the structure of ecosystem. Future thingy.
-
 
