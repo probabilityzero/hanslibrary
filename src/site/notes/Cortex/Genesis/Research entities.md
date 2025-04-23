@@ -35,6 +35,9 @@ This the umbrella organization for funding and that will incorporate:
 - REVER Engine
 	- [[Portfolio/Projects/Cellverse\|Cellverse]]
 
+- [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis\|Biosis]]: 
+- [[Waypoint/Domains/House of El Han/CORDE/Sentinel - Market Intelligence\|Sentinel - Market Intelligence]]
+- [[Cortex/Genesis/Shaman - Market Intelligence\|Shaman - Market Intelligence]]
 #### **[[Waypoint/Domains/House of El Han/CORDE/CORDE\|CORDE]]** 
 This a separate entity representing the research institutions. These institutions can publish independently, but may also interface with the Foundation’s components.
 - [[Waypoint/Databank/Οrganisations/Alpha/2. Research and Policy Institutions/Alanoma Research\|Alanoma Research]]
