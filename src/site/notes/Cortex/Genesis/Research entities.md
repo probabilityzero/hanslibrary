@@ -32,16 +32,23 @@ This the umbrella organization for funding and that will incorporate:
 	- [[Scholarly Maps\|Scholarly Maps]]
 
 
+- **Motherframe**
 - REVER Engine
 	- [[Portfolio/Projects/Cellverse\|Cellverse]]
 
-- [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis\|Biosis]]: 
+- [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis\|Biosis]]: A next-generation, cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
+
 - [[Waypoint/Domains/House of El Han/CORDE/Sentinel - Market Intelligence\|Sentinel - Market Intelligence]]
-- [[Cortex/Genesis/Shaman - Market Intelligence\|Shaman - Market Intelligence]]
+- [[Cortex/Genesis/Shaman - Medical Intelligence\|Shaman - Medical Intelligence]]
+- [[Cortex/Genesis/Lightscope - Predictive Intelligence\|Lightscope - Predictive Intelligence]]
+- [[Mother - Multimodal Generative Intelligence\|Mother - Multimodal Generative Intelligence]]
+- [[orisis technologies\|orisis technologies]]
+
 #### **[[Waypoint/Domains/House of El Han/CORDE/CORDE\|CORDE]]** 
 This a separate entity representing the research institutions. These institutions can publish independently, but may also interface with the Foundation’s components.
 - [[Waypoint/Databank/Οrganisations/Alpha/2. Research and Policy Institutions/Alanoma Research\|Alanoma Research]]
 - [[Waypoint/Domains/House of El Han/CORDE/Metapoint\|Metapoint]] 
+- [[Alpenglow\|Alpenglow]] layer 3-4
 
 ## **Publications & Dissemination** 
 It can either be integrated with Foundation or managed separately. They represent the diverse channels where research outputs are published, archived, and disseminated repositories, depending on the structure of ecosystem. Future thingy.

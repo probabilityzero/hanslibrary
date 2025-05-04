@@ -132,15 +132,14 @@ A **cloud-based simulation platform** where users model biomolecules, gene circu
 ---
 
 - [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis Vision and Philosophy\|Biosis Vision and Philosophy]]
-- [[Biosis Problem It Solves\|Biosis Problem It Solves]]
 - [[The Future of Biosis and Programmable Biology\|The Future of Biosis and Programmable Biology]]
-- [[Biosis Comparative Landscape – Tools, Gaps, and Opportunities\|Biosis Comparative Landscape – Tools, Gaps, and Opportunities]]
+- [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis Comparative Landscape – Tools, Gaps, and Opportunities\|Biosis Comparative Landscape – Tools, Gaps, and Opportunities]]
 - [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis Suite – System Overview\|Biosis Suite – System Overview]]
 - [[Biosis Tech Stack\|Biosis Tech Stack]]
 - [[Biosis Build Strategy\|Biosis Build Strategy]]
 - [[Biosis Phase 1: Foundation Layer\|Biosis Phase 1: Foundation Layer]]
 - [[Biosis Phase 2: Ecosystem Expansion\|Biosis Phase 2: Ecosystem Expansion]]
-- [[Biosis Use Cases – Real World Roles and Applications\|Biosis Use Cases – Real World Roles and Applications]]
+- [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis Use Cases – Real World Roles and Applications\|Biosis Use Cases – Real World Roles and Applications]]
 
 ---
 
