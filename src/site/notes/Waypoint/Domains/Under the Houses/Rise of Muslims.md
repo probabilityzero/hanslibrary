@@ -39,7 +39,7 @@ This phase is not just reactive, but preemptive and systemic—designed to disru
 
 ### 4. **Against Oppressive Regimes in Muslim Countries**
 
-- **Extreme Tactic**: Build “**United Sweetie Armies**” that:
+- **Extreme Tactic**: Build “*United Sweetie Armies*” that:
     - Leak the financial crimes of corrupt Muslim elites to international courts.
     - Launch viral campaigns showing their betrayal of Islam (e.g., stealing zakat, killing scholars).
     - Fund underground civic education in slums and mosques.
@@ -68,7 +68,7 @@ This phase is not just reactive, but preemptive and systemic—designed to disru
 
 ### 7. **Against Financial Colonialism**
 
-- **Extreme Tactic**: Create the **Ummah Crypto Standard**:
+- **Extreme Tactic**: Create the *Finance Standard*:
     - Launch a gold-backed Islamic cryptocurrency bypassing IMF, SWIFT, and sanctions.
     - Attract billions in halal investments and partner with non-aligned states (Africa, Latin America).
     - Penalize Muslim leaders using dollar systems to oppress their people.
