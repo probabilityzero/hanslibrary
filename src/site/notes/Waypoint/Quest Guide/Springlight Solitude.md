@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/waypoint/quest-guide/springlight-solitude/","tags":["Quests"]}
 ---
 
-# "Echoes of Springlight"
+# "Springlight in Solitude"
 
    As frost thaws and green tendrils break the earth, forgotten voices stir in the soft breeze. [[Waypoint/Character/Dream\|Dream]] answers the call of renewal, seeking books that bloom with insight, hope, and reawakening—harvested from the soil of memory and the light of spring.
 
@@ -19,9 +19,9 @@
 >- [ ] Book II: [[The Secret Garden - Frances Hodgson Burnett\|The Secret Garden - Frances Hodgson Burnett]]  
 >- [ ] Book III: [[Their Eyes Were Watching God - Zora Neale Hurston\|Their Eyes Were Watching God - Zora Neale Hurston]]  
 >- [ ] Book IV: [[The Vegetarian - Han Kang\|The Vegetarian - Han Kang]]  
->- [ ] Book V:  
->- [ ] Book VI:  
->- [ ] Book VII:  
+>- [ ] Book V: [[Roadside Picnic - Arkady and Boris Strugatsky\|Roadside Picnic - Arkady and Boris Strugatsky]]
+>- [ ] Book VI:  [[Nicomachean Ethics - Aristotle\|Nicomachean Ethics - Aristotle]]
+>- [ ] Book VII: [[The Tale of the Heike (平家物語)\|The Tale of the Heike (平家物語)]]
 >- [ ] Book VIII:  
 >- [ ] Book IX:  
 >- [ ] Book X:  
