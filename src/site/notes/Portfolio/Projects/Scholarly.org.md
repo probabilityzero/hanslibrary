@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/portfolio/projects/scholarly-org/","tags":["projects"]}
 ---
 
-
+![Pasted image 20250505070634.png](/img/user/Waypoint/Utilities/Archive/Attachments/Pasted%20image%2020250505070634.png)
 
 [[Portfolio/Projects/Route a page to it's subdomain\|Route a page to it's subdomain]]
 

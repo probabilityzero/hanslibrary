@@ -129,3 +129,4 @@
 - [ ] *Elements of Information Theory* by Thomas M. Cover, Joy A. Thomas 
 - [ ] *Statistical Learning Theory* by Vladimir N. Vapnik
 
+[[Library/Knowledge Glory/World building programming books\|World building programming books]] 

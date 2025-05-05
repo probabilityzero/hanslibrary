@@ -15,9 +15,9 @@
 
 > [!example]+ Act II: The Snowbound Pages
 >    With the books gathered, Dream delves into their pages. Each tome unveils a world of knowledge bound by winter's stillness.
->- [ ] Book I: [[Library/Alps & Meadows/Novels/Novel/The Stone Diaries - Carol Shields\|The Stone Diaries - Carol Shields]]
->- [ ] Book II: [[The Setting Sun - Osamu Dazai \|The Setting Sun - Osamu Dazai ]]
->- [ ] Book III: [[Whispers in the Graveyard - Theresa Breslin\|Whispers in the Graveyard - Theresa Breslin]]
+>- [x] Book I: [[Library/Alps & Meadows/Novels/Novel/The Stone Diaries - Carol Shields\|The Stone Diaries - Carol Shields]]
+>- [x] Book II: [[The Setting Sun - Osamu Dazai \|The Setting Sun - Osamu Dazai ]]
+>- [x] Book III: [[Whispers in the Graveyard - Theresa Breslin\|Whispers in the Graveyard - Theresa Breslin]]
 >- [x] Book IV: [[Please Look After Mom A Novel - Kyung-Sook Shin\|Please Look After Mom A Novel - Kyung-Sook Shin]]
 >- [ ] Book V: 
 >- [ ] Book VI: 
@@ -32,7 +32,7 @@
 >- [ ] Collective Reflection: *Insights and thoughts from the winter journey through the books.*
 >- [ ] Publish Reviews: *Share reflections in the Library of Han newsletter.*
 
-Deadline: [[2025-01-15\|2025-01-15]]
+Deadline: [[Cortex/Lifebook/2025-01-15\|2025-01-15]]
 
 # Quest Logs 
 ---
@@ -42,8 +42,8 @@ Deadline: [[2025-01-15\|2025-01-15]]
 ---
 # Quest Rewards
 
-|              |                                                                                                                                       |     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Character XP | 500 EXP                                                                                                                               |     |
-| Achievements | "Bookworm": Complete the quest.<br>"Winter Reader": Finish all books during the winter season.                                        |     |
-| Items        | [Character's Dream Item] (e.g., a special accessory that enhances abilities)<br>Unique crafting materials related to the winter theme |     |
+|              |                                                                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Character XP | 500 EXP                                                                                                                               |
+| Achievements | "Bookworm": Complete the quest.<br>"Winter Reader": Finish all books during the winter season.                                        |
+| Items        | [Character's Dream Item] (e.g., a special accessory that enhances abilities)<br>Unique crafting materials related to the winter theme |
