@@ -17,7 +17,7 @@ This the umbrella organization for funding and that will incorporate:
 
 - **[[Portfolio/Projects/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
 	- User libraries, connected notes, ai chats and so on.
-	- [[Portfolio/Projects/scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
+	- [[scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
 	- [[Cortex/Genesis/Scholarly City\|Scholarly City]]: A potential social network or collaborative space that connects folks, discussion, and facilitates data sharing.
 		- Forums
 		- Private communities 
@@ -36,7 +36,7 @@ This the umbrella organization for funding and that will incorporate:
 - [[Alpenglow\|Alpenglow]]: Student management and learning managemenet app build on the protocols of  The Foundation
 
 
-- **[[Motherframe\|Motherframe]]**
+- **[[Portfolio/Projects/Motherframe\|Motherframe]]**
 - REVER Engine
 	- [[Portfolio/Projects/Cellverse\|Cellverse]]
 

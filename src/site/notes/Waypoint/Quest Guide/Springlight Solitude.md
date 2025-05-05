@@ -10,7 +10,7 @@
 
 > [!example]+ Act I: The Blooming Signal  
 >    In the hush between frost and flower, a pulse of old knowledge rises. Dream sets out to unearth the seeds of springtime stories.  
->- [ ] Speak to the Gardener-Scholar at the Grove of Renewal to learn of the Vernal Codices.  
+>- [x] Speak to the Gardener-Scholar at the Grove of Renewal to learn of the Vernal Codices.  
 >- [ ] Find the scattered texts buried beneath blossom-laden roots and mossy alcoves.
 
 > [!example]+ Act II: The Petalbound Codex  
@@ -22,7 +22,7 @@
 >- [ ] Book V: [[Roadside Picnic - Arkady and Boris Strugatsky\|Roadside Picnic - Arkady and Boris Strugatsky]]
 >- [ ] Book VI:  [[Nicomachean Ethics - Aristotle\|Nicomachean Ethics - Aristotle]]
 >- [ ] Book VII: [[The Tale of the Heike (平家物語)\|The Tale of the Heike (平家物語)]]
->- [ ] Book VIII:  
+>- [x] Book VIII: [[Library/Alps & Meadows/Collections/Collected Works of Immanuel Kant\|Collected Works of Immanuel Kant]]
 >- [ ] Book IX:  
 >- [ ] Book X:  
 >- [ ] Book XI:  

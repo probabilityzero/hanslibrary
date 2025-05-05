@@ -160,4 +160,4 @@ Each paper page will have **several interactive elements**:
     - **Clusters** (Papers in the same research area)
 
 [[Portfolio/Projects/Scholarly World\|Scholarly World]] 
-[[Portfolio/Projects/Account.Scholarly\|Account.Scholarly]] 
+[[Portfolio/Projects/Scholarly ID (account)\|Scholarly ID (account)]] 

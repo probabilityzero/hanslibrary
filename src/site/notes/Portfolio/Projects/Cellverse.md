@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio/projects/cellverse/"}
+{"dg-publish":true,"permalink":"/portfolio/projects/cellverse/","tags":["projects"]}
 ---
 
 
