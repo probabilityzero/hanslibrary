@@ -38,17 +38,12 @@
 – Satellite/UAV imaging: thermal, night-vision, LIDAR; global asset/personnel tracking  
 – _Competitors:_ [Palantir](https://www.palantir.com), [Teledyne FLIR](https://www.teledyneflir.com), [Leonardo](https://www.leonardo.com)
 
-**7. AI & Autonomous Systems**  
-– Autonomous drones (land/air/sea), autonomous weapons, decision-support AI (WarSeer)  
-– Predictive threat analysis, multi-agent orchestration, neuromorphic compute  
-– _Competitors:_ [Anduril](https://www.anduril.com), [Shield AI](https://shield.ai), [DeepMind](https://deepmind.com)
-
-**8. Command & Control (C4ISR)**  
+**7. Command & Control (C4ISR)**  
 – Real-time battlefield communications, situational-awareness dashboards, tactical data links  
 – Cyber–physical integration: SpecterGrid mesh networks, quantum keys, UX-driven control consoles  
 – _Competitors:_ [Raytheon Integrated Defense](https://www.raytheon.com), [Thales](https://www.thalesgroup.com), [Elbit Systems](https://www.elbitsystems.com)
 
-**9. Support, Logistics & Services**  
+**8. Support, Logistics & Services**  
 – **Supply & Infrastructure:** base construction, transport convoys, mobile repair labs, field medical systems  
 – **Private Operations:** contractor training, security services, covert ops support  
 – _Competitors:_ [KBR](https://www.kbr.com), [Academi](https://academi.com), [DHL Defence](https://www.dhl.com)
