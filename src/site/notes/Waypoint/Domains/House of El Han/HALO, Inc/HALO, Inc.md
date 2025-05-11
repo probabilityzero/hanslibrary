@@ -6,6 +6,8 @@ pew pew
 # Halo, Inc
 
 - [[Cyberlink Intelligence Threat\|Cyberlink Intelligence Threat]]
+- [[Waypoint/Domains/House of El Han/HALO, Inc/Halo Roadmap\|Halo Roadmap]]
+- 
 ### **1. Weapons & Kinetics**
 
 - **Manufacture of firearms, missiles, tanks, drones, and aircraft.**
