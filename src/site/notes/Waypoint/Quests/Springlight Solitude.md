@@ -16,14 +16,14 @@
 > [!example]+ Act II: The Petalbound Codex  
 >    With books in hand, Dream reads into each one’s unfolding. The themes of birth, return, and vulnerability echo across chapters.  
 >- [ ] Book I: [[Braiding Sweetgrass - Robin Wall Kimmerer\|Braiding Sweetgrass - Robin Wall Kimmerer]]  
->- [ ] Book II: [[The Secret Garden - Frances Hodgson Burnett\|The Secret Garden - Frances Hodgson Burnett]]  
+>- [x] Book II: [[The Secret Garden - Frances Hodgson Burnett\|The Secret Garden - Frances Hodgson Burnett]]  
 >- [ ] Book III: [[Their Eyes Were Watching God - Zora Neale Hurston\|Their Eyes Were Watching God - Zora Neale Hurston]]  
 >- [ ] Book IV: [[The Vegetarian - Han Kang\|The Vegetarian - Han Kang]]  
 >- [ ] Book V: [[Roadside Picnic - Arkady and Boris Strugatsky\|Roadside Picnic - Arkady and Boris Strugatsky]]
 >- [ ] Book VI:  [[Nicomachean Ethics - Aristotle\|Nicomachean Ethics - Aristotle]]
 >- [ ] Book VII: [[The Tale of the Heike (平家物語)\|The Tale of the Heike (平家物語)]]
 >- [x] Book VIII: [[Library/Alps & Meadows/Collections/Collected Works of Immanuel Kant\|Collected Works of Immanuel Kant]]
->- [ ] Book IX:  
+>- [ ] Book IX:  [[Library/Alps & Meadows/Novels/Fantasy/Percy Jackson and The Olympians Series - Rick Riordan\|Percy Jackson and The Olympians Series - Rick Riordan]] (The Lighting Theif )
 >- [ ] Book X:  
 >- [ ] Book XI:  
 
