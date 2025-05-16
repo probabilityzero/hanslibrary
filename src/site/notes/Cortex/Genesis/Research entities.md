@@ -7,14 +7,12 @@
 This the umbrella organization for funding and that will incorporate:
 
 - [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
-	- Summarise 
 - [[Waypoint/Domains/The Foundation/Digital & Technological Innovation/Citizen ID\|Citizen ID]]: ID Database, integrated for authentication.
 
 - [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Encyclopedia for Integrated Knowledge\|Encyclopedia for Integrated Knowledge]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
 
 ## The House of El
-#### [[Waypoint/Domains/House of El Han/Han's Labs/Han's Labs\|Han's Labs]]
-
+### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/GNOSIS\|GNOSIS]]
 - **[[Portfolio/Projects/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
 	- User libraries, connected notes, ai chats and so on.
 	- [[scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
@@ -32,28 +30,30 @@ This the umbrella organization for funding and that will incorporate:
 	- [[Scholarly Maps\|Scholarly Maps]]
 	- [[Portfolio/Projects/scholarly omics\|scholarly omics]]
 	- [[scholarly physics\|scholarly physics]]
+- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
+- [[Waypoint/Domains/House of El Han/Ministry of Technology/Han's Labs/Physis\|Physis]]
 
+### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/COMET/COMET\|Comet]]
 - [[Alpenglow\|Alpenglow]]: Student management and learning managemenet app build on the protocols of  The Foundation
 
-
-- **[[Portfolio/Projects/Motherframe\|Motherframe]]**
-- REVER Engine
-	- [[Portfolio/Projects/Cellverse\|Cellverse]]
-
-- [[Waypoint/Domains/House of El Han/Han's Labs/Biosis/Biosis\|Biosis]]: A next-generation, cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
-- [[Waypoint/Domains/House of El Han/Han's Labs/Physis\|Physis]]
-
-- [[Waypoint/Domains/House of El Han/CORDE/Sentinel - Market Intelligence\|Sentinel - Market Intelligence]]
-- [[Cortex/Genesis/Shaman - Medical Intelligence\|Shaman - Medical Intelligence]]
-- [[Cortex/Genesis/Lightscope - Predictive Intelligence\|Lightscope - Predictive Intelligence]]
-- [[Mother - Multimodal Generative Intelligence\|Mother - Multimodal Generative Intelligence]]
-- [[orisis technologies\|orisis technologies]]
-
-#### **[[Waypoint/Domains/House of El Han/CORDE/CORDE\|CORDE]]** 
+### **[[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/CORDE\|CORDE]]** 
 This a separate entity representing the research institutions. These institutions can publish independently, but may also interface with the Foundation’s components.
 - [[Waypoint/Databank/Οrganisations/Alpha/2. Research and Policy Institutions/Alanoma Research\|Alanoma Research]]
-- [[Waypoint/Domains/House of El Han/CORDE/Metapoint\|Metapoint]] 
+
+### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/TITANS/TITANS\|TITANS]]
+
 
 ## **Publications & Dissemination** 
 It can either be integrated with Foundation or managed separately. They represent the diverse channels where research outputs are published, archived, and disseminated repositories, depending on the structure of ecosystem. Future thingy.
 
+
+---
+Unrelated 
+- **[[Portfolio/Projects/Motherframe\|Motherframe]]**
+- REVER Engine
+	- [[Portfolio/Projects/Cellverse\|Cellverse]]
+- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Sentinel - Market Intelligence\|Sentinel - Market Intelligence]]
+- [[Cortex/Genesis/Shaman - Medical Intelligence\|Shaman - Medical Intelligence]]
+- [[Cortex/Genesis/Lightscope - Predictive Intelligence\|Lightscope - Predictive Intelligence]]
+- [[Mother - Multimodal Generative Intelligence\|Mother - Multimodal Generative Intelligence]]
+- [[orisis technologies\|orisis technologies]]
