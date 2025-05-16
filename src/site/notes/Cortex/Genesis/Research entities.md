@@ -17,9 +17,7 @@ This the umbrella organization for funding and that will incorporate:
 	- User libraries, connected notes, ai chats and so on.
 	- [[scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
 	- [[Cortex/Genesis/Scholarly City\|Scholarly City]]: A potential social network or collaborative space that connects folks, discussion, and facilitates data sharing.
-		- Forums
-		- Private communities 
-		- Messaging 
+		- Forums, Private communities 
 	- [[Cortex/Genesis/Scholarly IDE\|Scholarly IDE]]: The Ultimate One
 		- Cross-platform
 		- Local-first, file based 
@@ -61,7 +59,7 @@ Unrelated
 
 
 ```mermaid
-graph TD
+graph LR
 
   subgraph House ["House"]
     GNOSIS["GNOSIS"]
@@ -71,62 +69,71 @@ graph TD
   end
 
   subgraph GNOSIS_Sub ["GNOSIS Components"]
-    Scholarly_org["Scholarly.org<br>Central client app for Research INDEX<br>User libraries, notes, AI chats"]
-    Scholarly_ID["Scholarly ID<br>User Management & Authentication Backend"]
-    Scholarly_City["Scholarly City<br>Social & Collaboration"]
-    Forums["Forums"]
-    Private_Communities["Private communities"]
-    Messaging["Messaging"]
-    Scholarly_IDE["Scholarly IDE<br>Cross-platform, local-first, file based<br>Personal & Group Servers > Multiple Vaults"]
-    Scholarly_Cloud_IDE["Scholarly Cloud IDE<br>Storage & Co-lab"]
+    Scholarly_org["Scholarly.org"]
+    Scholarly_ID["Scholarly ID"]
+    Scholarly_City["Scholarly City"]
+    Scholarly_IDE["Scholarly IDE"]
+    Scholarly_Cloud_IDE["Scholarly Cloud IDE"]
     Scholarly_Maps["Scholarly Maps"]
     Scholarly_Omics["Scholarly Omics"]
     Scholarly_Physics["Scholarly Physics"]
-    Biosis["Biosis<br>Cloud-native synthetic biology software suite"]
+    SimCity["Cloud Simulations and Modelling"]
+    Biosis["Biosis"]
     Physis["Physis"]
   end
 
   subgraph CORDE_Sub ["CORDE Entities"]
     Alanoma["Alanoma Research"]
+    Sentinel["Sentinel Research"]
+    Watchtower["Watchtower"]
   end
 
-  subgraph Foundation ["The Foundation"]
-    Research_INDEX_API["Research INDEX API<br>Knowledge & publication aggregator"]
-    Citizen_ID["Citizen ID<br>Authentication database"]
-    Encyclopedia["Encyclopedia for Integrated Knowledge<br>Live GitHub-like repo"]
-    Open_Challenges["Open Challenges Archive<br>Public problems & simulations"]
-    Open_Edu_Standards["Open Education Standards<br>Course metadata, APIs"]
+  subgraph COMET_Sub ["COMET Components"]
+    LearningPlatform["Online Learning Interface"]
+    LearnerID["Student Identity & Records"]
   end
 
-  %% House components links
-  House --> GNOSIS
-  House --> COMET
-  House --> CORDE
-  House --> TITANS
+  subgraph TITANS_Sub ["TITANS Ecosystem"]
+    Arena["Cognitive Arena"]
+    Tournaments["Discipline-Based Olympiads"]
+    SchoolCompetitions["School Competitions"]
+  end
 
   %% GNOSIS children
   GNOSIS --> Scholarly_org
+  GNOSIS --> SimCity
   Scholarly_org --> Scholarly_ID
   Scholarly_org --> Scholarly_City
-  Scholarly_City --> Forums
-  Scholarly_City --> Private_Communities
-  Scholarly_City --> Messaging
   Scholarly_org --> Scholarly_IDE
   Scholarly_org --> Scholarly_Cloud_IDE
   Scholarly_org --> Scholarly_Maps
   Scholarly_org --> Scholarly_Omics
   Scholarly_org --> Scholarly_Physics
-  Scholarly_org --> Biosis
-  Scholarly_org --> Physis
+  SimCity --> Biosis
+  SimCity --> Physis
 
   %% CORDE children
   CORDE --> Alanoma
+  CORDE --> Sentinel
+  CORDE --> Watchtower
 
-  %% Foundation children
-  Foundation --> Research_INDEX_API
-  Foundation --> Citizen_ID
-  Foundation --> Encyclopedia
-  Foundation --> Open_Challenges
-  Foundation --> Open_Edu_Standards
+  %% COMET children
+  COMET --> LearningPlatform
+  COMET --> LearnerID
+  
+  %% TITANS children
+  TITANS --> Arena
+  TITANS --> Tournaments
+  TITANS --> SchoolCompetitions
 ```
 
+```mermaid
+graph LR
+  subgraph Foundation ["The Foundation"]
+    INDEX_API["INDEX API<br>Research publication aggregator"]
+    Citizen_ID["Citizen ID"]
+    Encyclopedia["Encyclopedia for Integrated Knowledge"]
+    Open_Challenges["Challenges Archive"]
+    Open_Edu_Standards["Education Standards Protocols"]
+  end
+```
