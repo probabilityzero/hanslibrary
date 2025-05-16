@@ -8,10 +8,10 @@ This the umbrella organization for funding and that will incorporate:
 
 - [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
 - [[Waypoint/Domains/The Foundation/Digital & Technological Innovation/Citizen ID\|Citizen ID]]: ID Database, integrated for authentication.
-
 - [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Encyclopedia for Integrated Knowledge\|Encyclopedia for Integrated Knowledge]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
-
-## The House of El
+-  **Open Challenges Archive**: Free, public repository of problems and simulations
+- **Open Education Standards**: Course metadata schema, learning progress interoperability, API specs  
+## The Research and Education Division of House
 ### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/GNOSIS\|GNOSIS]]
 - **[[Portfolio/Projects/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
 	- User libraries, connected notes, ai chats and so on.
@@ -34,6 +34,7 @@ This the umbrella organization for funding and that will incorporate:
 - [[Waypoint/Domains/House of El Han/Ministry of Technology/Han's Labs/Physis\|Physis]]
 
 ### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/COMET/COMET\|Comet]]
+    Federated Online Study Platform
 - [[Alpenglow\|Alpenglow]]: Student management and learning managemenet app build on the protocols of  The Foundation
 
 ### **[[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/CORDE\|CORDE]]** 
@@ -57,3 +58,75 @@ Unrelated
 - [[Cortex/Genesis/Lightscope - Predictive Intelligence\|Lightscope - Predictive Intelligence]]
 - [[Mother - Multimodal Generative Intelligence\|Mother - Multimodal Generative Intelligence]]
 - [[orisis technologies\|orisis technologies]]
+
+
+```mermaid
+graph TD
+
+  subgraph House ["House"]
+    GNOSIS["GNOSIS"]
+    COMET["COMET"]
+    CORDE["CORDE"]
+    TITANS["TITANS"]
+  end
+
+  subgraph GNOSIS_Sub ["GNOSIS Components"]
+    Scholarly_org["Scholarly.org<br>Central client app for Research INDEX<br>User libraries, notes, AI chats"]
+    Scholarly_ID["Scholarly ID<br>User Management & Authentication Backend"]
+    Scholarly_City["Scholarly City<br>Social & Collaboration"]
+    Forums["Forums"]
+    Private_Communities["Private communities"]
+    Messaging["Messaging"]
+    Scholarly_IDE["Scholarly IDE<br>Cross-platform, local-first, file based<br>Personal & Group Servers > Multiple Vaults"]
+    Scholarly_Cloud_IDE["Scholarly Cloud IDE<br>Storage & Co-lab"]
+    Scholarly_Maps["Scholarly Maps"]
+    Scholarly_Omics["Scholarly Omics"]
+    Scholarly_Physics["Scholarly Physics"]
+    Biosis["Biosis<br>Cloud-native synthetic biology software suite"]
+    Physis["Physis"]
+  end
+
+  subgraph CORDE_Sub ["CORDE Entities"]
+    Alanoma["Alanoma Research"]
+  end
+
+  subgraph Foundation ["The Foundation"]
+    Research_INDEX_API["Research INDEX API<br>Knowledge & publication aggregator"]
+    Citizen_ID["Citizen ID<br>Authentication database"]
+    Encyclopedia["Encyclopedia for Integrated Knowledge<br>Live GitHub-like repo"]
+    Open_Challenges["Open Challenges Archive<br>Public problems & simulations"]
+    Open_Edu_Standards["Open Education Standards<br>Course metadata, APIs"]
+  end
+
+  %% House components links
+  House --> GNOSIS
+  House --> COMET
+  House --> CORDE
+  House --> TITANS
+
+  %% GNOSIS children
+  GNOSIS --> Scholarly_org
+  Scholarly_org --> Scholarly_ID
+  Scholarly_org --> Scholarly_City
+  Scholarly_City --> Forums
+  Scholarly_City --> Private_Communities
+  Scholarly_City --> Messaging
+  Scholarly_org --> Scholarly_IDE
+  Scholarly_org --> Scholarly_Cloud_IDE
+  Scholarly_org --> Scholarly_Maps
+  Scholarly_org --> Scholarly_Omics
+  Scholarly_org --> Scholarly_Physics
+  Scholarly_org --> Biosis
+  Scholarly_org --> Physis
+
+  %% CORDE children
+  CORDE --> Alanoma
+
+  %% Foundation children
+  Foundation --> Research_INDEX_API
+  Foundation --> Citizen_ID
+  Foundation --> Encyclopedia
+  Foundation --> Open_Challenges
+  Foundation --> Open_Edu_Standards
+```
+
