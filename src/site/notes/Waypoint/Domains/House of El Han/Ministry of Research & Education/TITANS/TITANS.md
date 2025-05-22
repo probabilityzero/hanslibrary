@@ -7,8 +7,6 @@
 
 **TITANS** is a *global intellectual competition and talent development ecosystem* for the post-industrial knowledge era. It transforms research, reasoning, and problem-solving into a competitive, participatory structure that mirrors the rigor of Olympiads, the immersion of games, and the seriousness of strategy academies. It is not “edtech”; it is the *intellectual league system of the modern mind*, cultivating disciplines through performance, dialogue, and deep play.
 
-To foster an elite, accessible, and multidimensional platform where individuals and collectives can prove, improve, and evolve their thinking through structured intellectual competition across the spectrum of human knowledge.
-
 ---
 
 ## CORE PILLARS

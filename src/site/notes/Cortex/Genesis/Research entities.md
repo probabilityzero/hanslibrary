@@ -32,12 +32,14 @@ This the umbrella organization for funding and that will incorporate:
 - [[Waypoint/Domains/House of El Han/Ministry of Technology/Han's Labs/Physis\|Physis]]
 
 ### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/COMET/COMET\|Comet]]
-    Federated Online Study Platform
-- [[Alpenglow\|Alpenglow]]: Student management and learning managemenet app build on the protocols of  The Foundation
+A Federated Online Study Platform Student management and learning managemenet app build on the protocols of  The Foundation
+- [[Alpenglow\|Alpenglow]]
 
 ### **[[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/CORDE\|CORDE]]** 
 This a separate entity representing the research institutions. These institutions can publish independently, but may also interface with the Foundation’s components.
-- [[Waypoint/Databank/Οrganisations/Alpha/2. Research and Policy Institutions/Alanoma Research\|Alanoma Research]]
+- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Alanoma Research/Alanoma Research\|Alanoma Research]]
+- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Elixir Research\|Elixir Research]]
+- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Allele Research\|Allele Research]]
 
 ### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/TITANS/TITANS\|TITANS]]
 
@@ -47,15 +49,6 @@ It can either be integrated with Foundation or managed separately. They represen
 
 
 ---
-Unrelated 
-- **[[Portfolio/Projects/Motherframe\|Motherframe]]**
-- REVER Engine
-	- [[Portfolio/Projects/Cellverse\|Cellverse]]
-- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Sentinel - Market Intelligence\|Sentinel - Market Intelligence]]
-- [[Cortex/Genesis/Shaman - Medical Intelligence\|Shaman - Medical Intelligence]]
-- [[Cortex/Genesis/Lightscope - Predictive Intelligence\|Lightscope - Predictive Intelligence]]
-- [[Mother - Multimodal Generative Intelligence\|Mother - Multimodal Generative Intelligence]]
-- [[orisis technologies\|orisis technologies]]
 
 
 ```mermaid
@@ -77,7 +70,7 @@ graph LR
     Scholarly_Maps["Scholarly Maps"]
     Scholarly_Omics["Scholarly Omics"]
     Scholarly_Physics["Scholarly Physics"]
-    SimCity["Cloud Simulations and Modelling"]
+    SimCity["Sim City"]
     Biosis["Biosis"]
     Physis["Physis"]
   end
