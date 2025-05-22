@@ -5586,7 +5586,7 @@ body:not(.is-translucent):not(.is-mobile) .workspace-tabs {
 }
 .cm-s-obsidian {
   line-height: var(--line-height-normal);
-  padding: 4px 12px;
+  padding: 2px 8px;
 }
 .cm-s-obsidian .hmd-fold-html-stub,
 .cm-s-obsidian .hmd-fold-code-stub,
@@ -9016,7 +9016,7 @@ body:not(.is-grabbing) .nav-folder-title.is-being-dragged .nav-file-tag,
 }
 .choose-vault-label-choose {
   font-weight: var(--font-extrabold);
-  font-size: 32px;
+  font-size: 24px;
 }
 .recent-vaults {
   background-color: var(--background-secondary);
