@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waypoint/quests/completed-quests/whispers-of-autumn-s-pages/","tags":["Quests"]}
+{"dg-publish":true,"dg-path":"Quests/Completed Quests/Whispers of Autumn's Pages.md","permalink":"/quests/completed-quests/whispers-of-autumn-s-pages/","tags":["Quests"]}
 ---
 
 # "Whispers of Autumn's Pages"

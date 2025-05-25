@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waypoint/quests/dorin-lamba/","tags":["Quests","Language","Romanian","Native Speaker"]}
+{"dg-publish":true,"dg-path":"Quests/Dorin Lambă.md","permalink":"/quests/dorin-lamba/","tags":["Quests","Language","Romanian","Native Speaker"]}
 ---
 
 

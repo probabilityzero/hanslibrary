@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waypoint/quests/quests/"}
+{"dg-publish":true,"dg-path":"Quests/Quests.md","permalink":"/quests/quests/"}
 ---
 
 # quest guide

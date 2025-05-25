@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waypoint/quests/narration/","tags":["Quests","Communication","Mastery"]}
+{"dg-publish":true,"dg-path":"Quests/Narration.md","permalink":"/quests/narration/","tags":["Quests","Communication","Mastery"]}
 ---
 
 

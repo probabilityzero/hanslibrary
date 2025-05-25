@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waypoint/quests/competitive-programming-first-steps/","tags":["Training","Competitive","Programming","Quests"]}
+{"dg-publish":true,"dg-path":"Quests/Competitive Programming First Steps.md","permalink":"/quests/competitive-programming-first-steps/","tags":["Training","Competitive","Programming","Quests"]}
 ---
 
 

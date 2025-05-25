@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waypoint/quests/bcibf-year-2/","tags":["Quests","Exams","Ascension"]}
+{"dg-publish":true,"dg-path":"Quests/BCIBF - YEAR 2.md","permalink":"/quests/bcibf-year-2/","tags":["Quests","Exams","Ascension"]}
 ---
 
 
