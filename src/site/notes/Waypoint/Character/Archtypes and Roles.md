@@ -3,7 +3,7 @@
 ---
 
 
-### **Archetype 0: The Core (Essential Skills)**
+### Archetype 0: The Core 
 
 self-awareness, emotional intelligence, adaptability, critical thinking, decision-making, problem-solving, resilience, time management, stress management, leadership, creativity, innovation, public speaking, communication, empathy, negotiation, teamwork, self-discipline, conflict resolution, strategic thinking, persuasion, project management, multitasking, goal-setting, active listening, self-regulation, mindfulness, adaptability, learning agility, work-life balance, reflection, personal growth, emotional regulation, adaptability, conflict resolution, adaptability, balance, self-motivation, mental flexibility, attention to detail, focus, emotional resilience, adaptability, confidence, patience, observation, consistency, stress tolerance, perseverance, cultural competency, adaptability.
 

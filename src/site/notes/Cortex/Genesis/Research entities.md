@@ -27,7 +27,9 @@ This the umbrella organization for funding and that will incorporate:
 		- Co-lab on specific files or directories 
 	- [[Scholarly Maps\|Scholarly Maps]]
 	- [[Portfolio/Projects/scholarly omics\|scholarly omics]]
-	- [[scholarly physics\|scholarly physics]]
+	- [[Portfolio/Projects/scholarly linguistics\|scholarly linguistics]]
+	- [[Portfolio/Projects/Scholarly ilm\|Scholarly ilm]]
+	- [[Scholarly physics\|Scholarly physics]]
 - [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
 - [[Waypoint/Domains/House of El Han/Ministry of Technology/Han's Labs/Physis\|Physis]]
 
@@ -46,6 +48,8 @@ This a separate entity representing the research institutions. These institution
 
 ## **Publications & Dissemination** 
 It can either be integrated with Foundation or managed separately. They represent the diverse channels where research outputs are published, archived, and disseminated repositories, depending on the structure of ecosystem. Future thingy.
+- [[Waypoint/Domains/House of El Han/Ministry of Arts and Culture/The Publishing House/The Publishing House\|The Publishing House]]
+	- 
 
 
 ---
