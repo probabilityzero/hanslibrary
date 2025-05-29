@@ -13,7 +13,7 @@ This the umbrella organization for funding and that will incorporate:
 - **Open Education Standards**: Course metadata schema, learning progress interoperability, API specs  
 ## The Research and Education Division of House
 ### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/GNOSIS\|GNOSIS]]
-- **[[Eκμάδεση/Projects & Contributions/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
+- **[[Eκμάδεση/Projects & Research/Projects & Contributions/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
 	- User libraries, connected notes, ai chats and so on.
 	- [[scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
 	- [[Cortex/Genesis/Scholarly City\|Scholarly City]]: A potential social network or collaborative space that connects folks, discussion, and facilitates data sharing.
@@ -26,9 +26,9 @@ This the umbrella organization for funding and that will incorporate:
 		- Storage
 		- Co-lab on specific files or directories 
 	- [[Scholarly Maps\|Scholarly Maps]]
-	- [[Eκμάδεση/Projects & Contributions/scholarly omics\|scholarly omics]]
-	- [[Eκμάδεση/Projects & Contributions/scholarly linguistics\|scholarly linguistics]]
-	- [[Eκμάδεση/Projects & Contributions/Scholarly ilm\|Scholarly ilm]]
+	- [[Eκμάδεση/Projects & Research/Projects & Contributions/scholarly omics\|scholarly omics]]
+	- [[Eκμάδεση/Projects & Research/Projects & Contributions/scholarly linguistics\|scholarly linguistics]]
+	- [[Eκμάδεση/Projects & Research/Projects & Contributions/Scholarly ilm\|Scholarly ilm]]
 	- [[Scholarly physics\|Scholarly physics]]
 - [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
 - [[Waypoint/Domains/House of El Han/Ministry of Technology/Han's Labs/Physis\|Physis]]

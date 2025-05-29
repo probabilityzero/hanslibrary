@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Eminescu.md","permalink":"/quests/eminescu/","tags":["Quests","Culture","Romania","Moldova","History","Traditions"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/eminescu/","tags":["Quests","Culture","Romania","Moldova","History","Traditions"]}
 ---
 
 

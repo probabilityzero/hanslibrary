@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Storyteller voice.md","permalink":"/quests/storyteller-voice/","tags":["Quests"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/storyteller-voice/","tags":["Quests"]}
 ---
 
 

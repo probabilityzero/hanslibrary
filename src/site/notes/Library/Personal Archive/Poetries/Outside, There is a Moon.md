@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Poetries/Outside, There is a Moon.md","permalink":"/poetries/outside-there-is-a-moon/","tags":["Poetries"]}
+{"dg-publish":true,"permalink":"/library/personal-archive/poetries/outside-there-is-a-moon/","tags":["Poetries"]}
 ---
 
 > [!Quote] Damian 

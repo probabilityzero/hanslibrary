@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Completed Quests/Winter's Chill.md","permalink":"/quests/completed-quests/winter-s-chill/","tags":["Quests"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/completed-quests/winter-s-chill/","tags":["Quests"]}
 ---
 
 # "Whispers of Winter's Chill"

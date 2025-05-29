@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Poetries/Desperate, Where Are You Going.md","permalink":"/poetries/desperate-where-are-you-going/","tags":["Poetries"]}
+{"dg-publish":true,"permalink":"/library/personal-archive/poetries/desperate-where-are-you-going/","tags":["Poetries"]}
 ---
 
 > [!QUOTE] Damian

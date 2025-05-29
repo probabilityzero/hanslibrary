@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Vincent Speaks.md","permalink":"/quests/vincent-speaks/","tags":["Quests","Language","French","A1","A2"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/vincent-speaks/","tags":["Quests","Language","French","A1","A2"]}
 ---
 
 

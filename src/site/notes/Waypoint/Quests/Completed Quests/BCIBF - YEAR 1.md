@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Completed Quests/BCIBF - YEAR 1.md","permalink":"/quests/completed-quests/bcibf-year-1/","tags":["Quests","Exams","Ascension"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/completed-quests/bcibf-year-1/","tags":["Quests","Exams","Ascension"]}
 ---
 
 

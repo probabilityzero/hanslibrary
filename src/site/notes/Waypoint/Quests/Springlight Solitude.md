@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Springlight Solitude.md","permalink":"/quests/springlight-solitude/","tags":["Quests"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/springlight-solitude/","tags":["Quests"]}
 ---
 
 # "Springlight in Solitude"

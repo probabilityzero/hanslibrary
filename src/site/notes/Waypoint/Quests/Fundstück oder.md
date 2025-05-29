@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quests/Fundstück oder.md","permalink":"/quests/fundstueck-oder/","tags":["Quests"]}
+{"dg-publish":true,"permalink":"/waypoint/quests/fundstueck-oder/","tags":["Quests"]}
 ---
 
 
