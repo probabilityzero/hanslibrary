@@ -32,7 +32,7 @@
 >- [ ] Collective Reflection: *Insights and emotions awakened by the spring readings.*  
 >- [ ] Publish Reviews: *Share floral-tinged reflections in the Library of Han newsletter.*
 
-Deadline: [[2025-05-30\|2025-05-30]]
+Deadline: [[Cortex/Lifebook/2025-05-30\|2025-05-30]]
 
 # Quest Logs 
 ---

@@ -159,5 +159,5 @@ Each paper page will have **several interactive elements**:
     - **Citations** (Other papers citing this one)
     - **Clusters** (Papers in the same research area)
 
-[[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/Scholarly World\|Scholarly World]] 
+[[Waypoint/Domains/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Scholarly World\|Scholarly World]] 
 [[Eκμάδεση/Projects & Research/Projects & Contributions/Scholarly ID (account)\|Scholarly ID (account)]] 

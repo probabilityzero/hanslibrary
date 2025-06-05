@@ -6,13 +6,13 @@
 ## **[[Waypoint/Domains/The Foundation/The Foundation\|The Foundation]]** 
 This the umbrella organization for funding and that will incorporate:
 
-- [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
+- [[Waypoint/Domains/The Foundation/Ministry of Research and Education/Academic & Research Council/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
 - [[Waypoint/Domains/The Foundation/Digital & Technological Innovation/Citizen ID\|Citizen ID]]: ID Database, integrated for authentication.
-- [[Waypoint/Domains/The Foundation/Educational Board and Institutions/Encyclopedia for Integrated Knowledge\|Encyclopedia for Integrated Knowledge]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
+- [[Waypoint/Domains/The Foundation/Ministry of Research and Education/Academic & Research Council/The Encyclopedia\|The Encyclopedia]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
 -  **Open Challenges Archive**: Free, public repository of problems and simulations
 - **Open Education Standards**: Course metadata schema, learning progress interoperability, API specs  
 ## The Research and Education Division of House
-### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/GNOSIS\|GNOSIS]]
+### [[Waypoint/Domains/House of El Han/Ministry of Education & Research/GNOSIS, Inc/GNOSIS, Inc\|GNOSIS, Inc]]
 - **[[Eκμάδεση/Projects & Research/Projects & Contributions/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
 	- User libraries, connected notes, ai chats and so on.
 	- [[scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
@@ -30,20 +30,20 @@ This the umbrella organization for funding and that will incorporate:
 	- [[Eκμάδεση/Projects & Research/Projects & Contributions/scholarly linguistics\|scholarly linguistics]]
 	- [[Eκμάδεση/Projects & Research/Projects & Contributions/Scholarly ilm\|Scholarly ilm]]
 	- [[Scholarly physics\|Scholarly physics]]
-- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/GNOSIS/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
-- [[Waypoint/Domains/House of El Han/Ministry of Technology/Han's Labs/Physis\|Physis]]
+- [[Waypoint/Domains/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
+- [[Waypoint/Domains/House of El Han/Ministry of Technology & Engineering/Han's Labs/Physis\|Physis]]
 
-### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/COMET/COMET\|Comet]]
+### [[Waypoint/Domains/House of El Han/Ministry of Education & Research/COMET/COMET\|COMET]]
 A Federated Online Study Platform Student management and learning managemenet app build on the protocols of  The Foundation
 - [[Alpenglow\|Alpenglow]]
 
-### **[[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/CORDE\|CORDE]]** 
+### **[[Waypoint/Domains/House of El Han/Ministry of Education & Research/CORDE/CORDE\|CORDE]]** 
 This a separate entity representing the research institutions. These institutions can publish independently, but may also interface with the Foundation’s components.
-- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Alanoma Research/Alanoma Research\|Alanoma Research]]
-- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Elixir Research\|Elixir Research]]
-- [[Waypoint/Domains/House of El Han/Ministry of Research & Education/CORDE/Allele Research\|Allele Research]]
+- [[Waypoint/Domains/House of El Han/Ministry of Education & Research/CORDE/Alanoma Research/Alanoma Research\|Alanoma Research]]
+- [[Waypoint/Domains/House of El Han/Ministry of Education & Research/CORDE/Elixir Research\|Elixir Research]]
+- [[Waypoint/Domains/House of El Han/Ministry of Education & Research/CORDE/Allele Research\|Allele Research]]
 
-### [[Waypoint/Domains/House of El Han/Ministry of Research & Education/TITANS/TITANS\|TITANS]]
+### [[Waypoint/Domains/House of El Han/Ministry of Education & Research/Times of Titans/Times of Titans\|Times of Titans]]
 
 
 ## **Publications & Dissemination** 
