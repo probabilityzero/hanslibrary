@@ -23,7 +23,7 @@
 >- [ ] Book VI:  [[Nicomachean Ethics - Aristotle\|Nicomachean Ethics - Aristotle]]
 >- [ ] Book VII: [[The Tale of the Heike (平家物語)\|The Tale of the Heike (平家物語)]]
 >- [x] Book VIII: [[Library/Alps & Meadows/Collections/Collected Works of Immanuel Kant\|Collected Works of Immanuel Kant]]
->- [ ] Book IX:  [[Library/Alps & Meadows/Novels/Fantasy/Percy Jackson and The Olympians Series - Rick Riordan\|Percy Jackson and The Olympians Series - Rick Riordan]] (The Lighting Theif )
+>- [x] Book IX:  [[Library/Alps & Meadows/Novels/Fantasy/Percy Jackson and The Olympians Series - Rick Riordan\|Percy Jackson and The Olympians Series - Rick Riordan]] (The Lighting Theif )
 >- [ ] Book X: [[Tess of the D'Urbervilles - Thomas Hardy\|Tess of the D'Urbervilles - Thomas Hardy]]
 >- [ ] Book XI:  
 

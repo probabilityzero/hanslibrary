@@ -19,7 +19,7 @@
 >- [x] Book II: [[The Setting Sun - Osamu Dazai \|The Setting Sun - Osamu Dazai ]]
 >- [x] Book III: [[Whispers in the Graveyard - Theresa Breslin\|Whispers in the Graveyard - Theresa Breslin]]
 >- [x] Book IV: [[Please Look After Mom A Novel - Kyung-Sook Shin\|Please Look After Mom A Novel - Kyung-Sook Shin]]
->- [ ] Book V: 
+>- [ ] Book V: [[The Ones Who Walk Away From Omelas - Ursula.epub]]
 >- [ ] Book VI: 
 >- [ ] Book VII: 
 >- [ ] Book VIII: 
