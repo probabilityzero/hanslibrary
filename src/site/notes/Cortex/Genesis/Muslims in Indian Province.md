@@ -64,7 +64,37 @@
 - **Dār al-Hind al-Sharqī** focuses on **high Muslim population density but weaker economic base**, ideal for Dawah, upliftment, and border diplomacy (e.g., Bangladesh).
 - **Dār al-Dakkan** would integrate **high-literacy and tech-enabled regions** with strong legacy centers (Hyderabad, Kerala), forming a forward Dār for economic and scientific growth.
 
----
-
 - India would contribute **~2–3%** of the global Dār structure.
 - But due to India’s Muslim population (~11–12% of global Ummah), it would be **densely clustered and strategically crucial**, possibly forming a regional _Imarah zone_ (sub-Khilāfah sphere) if autonomy is achieved.
+
+---
+
+### **Core Composition of 1 Province (~1 million people)**
+
+| Settlement Type                 | Population Each | Description                                                                                                                                                 |
+| ------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 Regional City**             | ~150K–300K      | Administrative & economic center: Wilāyah council HQ, main hospital, higher education institutes, court, market complex, digital infra hub, cultural center |
+| 2-5 **Towns**                   | ~50K–100K       | Mid-tier service centers; Schools, clinics, trade bazaars, police posts, media node, logistics hub, madrasah                                                |
+| **Large Villages**              | ~5K–10K         | Agro-market and cultural hubs; Primary schools, co-ops, masājid, local farms, regional storage                                                              |
+| **Neighbouring Small Villages** | ~1K–5K          | Agricultural + residential; Basic infrastructure, family-based agriculture, masjid                                                                          |
+
+---
+
+A good example of a **unit**:
+
+- **District: Rampur (U.P.)**
+    - Pop: ~2M
+    - 1 major city (Rampur)
+    - 5–6 towns
+    - ~1,100 villages  
+        → Split in **2 Wilāyahs**, each ~1M
+
+Another example:
+
+- **District: Malappuram (Kerala)**
+    - Pop: ~4M
+    - Urban-rural integrated
+    - Dense Muslim population  
+        → Divides into **4 Wilāyahs**
+
+---
