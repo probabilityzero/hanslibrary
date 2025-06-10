@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"Genesis/Muslims in Indian Province.md","permalink":"/genesis/muslims-in-indian-province/"}
 ---
 
-Given India’s Muslim population (~210–220 million), and 0.5M–1.5M population every province.
 
 - **Indian Muslim Population**: ~215 million
 - **Province Size (Population per Unit)**: 0.5M–1.5M
@@ -10,8 +9,6 @@ Given India’s Muslim population (~210–220 million), and 0.5M–1.5M populati
     - **Min**: 215M ÷ 1.5M ≈ **143 Provinces**
     - **Max**: 215M ÷ 0.5M ≈ **430 Provinces**
     - **Balanced Estimate**: **~250–300 Provinces**
-
-#### **Where Should These Be Concentrated?**
 
 **Natural (Existing Density) Clusters:**
 
