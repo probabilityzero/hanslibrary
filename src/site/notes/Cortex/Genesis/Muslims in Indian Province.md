@@ -13,16 +13,17 @@
 
 **Natural (Existing Density) Clusters:**
 
-| **States Covered**                         | **Estimated Province Count** | **Core Muslim Clusters (Urban/Rural)**                                                                            |
-| ------------------------------------------ | ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| _Uttar Pradesh_                            | **60–70** (~40M)             | Moradabad, Bareilly, Rampur, Amroha, Saharanpur, Bijnor, Azamgarh, Mau, Jaunpur, Gonda, Bahraich, Lucknow suburbs |
-| _Bihar, West Bengal_                       | **50–70** (~40M)             | Kishanganj, Purnia, Katihar, Darbhanga, Murshidabad, Malda, Nadia, Kolkata (east), Howrah, 24 Parganas            |
-| _Assam_                                    | **15–20** (~15M)             | Dhubri, Goalpara, Barpeta, Nagaon, Morigaon, Hailakandi, Silchar                                                  |
-| _Maharashtra, Telangana, Karnataka_        | **30–40** (~20M)             | Mumbai (Mumbra, Bhiwandi, Malegaon), Aurangabad, Hyderabad (Old City), Bidar, Kalaburagi, Amravati, Nizamabad     |
-| _Kerala_                                   | **10–15** (~10M)             | Kozhikode, Malappuram, Kannur, Thrissur, Kochi, Palakkad                                                          |
-| _Jammu & Kashmir_                          | **10–15** (~10M)             | Srinagar, Anantnag, Baramulla, Pulwama, Kupwara, Doda, Kishtwar                                                   |
-| _Delhi, Gujarat, Rajasthan, MP, Jharkhand_ | **15–20** (~10M)             | Delhi (Old City, Okhla), Ahmedabad (East), Bhopal, Burhanpur, Jaipur (Ramganj), Bharatpur, Jamshedpur, Dhanbad    |
-**→ This yields ~200 Provinces naturally.**
+| **States Covered**                         | **Est. Province** | **Core Muslim Clusters (Urban/Rural)**                                                                            |
+| ------------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
+| _Uttar Pradesh_                            | **60–70** (~40M)  | Moradabad, Bareilly, Rampur, Amroha, Saharanpur, Bijnor, Azamgarh, Mau, Jaunpur, Gonda, Bahraich, Lucknow suburbs |
+| _Bihar, West Bengal_                       | **50–70** (~40M)  | Kishanganj, Purnia, Katihar, Darbhanga, Murshidabad, Malda, Nadia, Kolkata (east), Howrah, 24 Parganas            |
+| _Assam_                                    | **15–20** (~15M)  | Dhubri, Goalpara, Barpeta, Nagaon, Morigaon, Hailakandi, Silchar                                                  |
+| _Maharashtra, Telangana, Karnataka_        | **30–40** (~20M)  | Mumbai (Mumbra, Bhiwandi, Malegaon), Aurangabad, Hyderabad (Old City), Bidar, Kalaburagi, Amravati, Nizamabad     |
+| _Kerala_                                   | **10–15** (~10M)  | Kozhikode, Malappuram, Kannur, Thrissur, Kochi, Palakkad                                                          |
+| _Jammu & Kashmir_                          | **10–15** (~10M)  | Srinagar, Anantnag, Baramulla, Pulwama, Kupwara, Doda, Kishtwar                                                   |
+| _Delhi, Gujarat, Rajasthan, MP, Jharkhand_ | **15–20** (~10M)  | Delhi (Old City, Okhla), Ahmedabad (East), Bhopal, Burhanpur, Jaipur (Ramganj), Bharatpur, Jamshedpur, Dhanbad    |
+
+*→ This yields ~200 Provinces naturally.*
 
 **Strategic Migration / Artificial Clusters:**
 
