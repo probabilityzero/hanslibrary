@@ -32,25 +32,6 @@
 
 ---
 
-#### **How Does This Compare Globally?**
-
-- **Global Muslim Population**: ~2B
-- **Global Province Estimate**: ~2B ÷ ~1M = **~2000–2500 Provinces**
-- **India’s Share**:
-    - **Muslim % globally**: ~10–11%
-    - **Province Share**: 250–300 out of 2500 → ~**10–12%**  
-     **Proportional** to population ✓
-
-| Metric                    | Value                                          |
-| ------------------------- | ---------------------------------------------- |
-| Muslim Population (India) | ~215 million                                   |
-| Estimated Provinces       | 250–300                                        |
-| % of Global Provinces     | ~10–12%                                        |
-| Primary Clusters          | UP, WB, Bihar, Assam, Maharashtra, Kerala      |
-| Strategic Clusters        | 50–80 urban-rural zones via migration planning |
-
----
-
 #### Territory Clustering of Indian Muslim Province 
 
 |**Dār Name**|**Region & States**|**Wilāyah Count**|**Cultural/Strategic Anchors**|
