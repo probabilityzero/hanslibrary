@@ -43,7 +43,7 @@ This a separate entity representing the research institutions. These institution
 - [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/Elixir Research\|Elixir Research]]
 - [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/Allele Research\|Allele Research]]
 
-### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/TITANS, Inc/TITANS, Inc\|TITANS, Inc]]
+### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/The Cognition League/The Cognition League\|The Cognition League]]
 
 
 ## **Publications & Dissemination** 
