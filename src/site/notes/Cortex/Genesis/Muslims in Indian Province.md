@@ -11,7 +11,7 @@
     - **Max**: 215M ÷ 0.5M ≈ **430 Provinces**
     - **Balanced Estimate**: **~250–300 Provinces**
 
-**Natural (Existing Density) Clusters:**
+**Natural existing clusters:**
 
 | **States Covered**                         | **Est. Province** | **Core Muslim Clusters (Urban/Rural)**                                                                            |
 | ------------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@
 
 *→ This yields ~200 Provinces naturally.*
 
-**Strategic Migration / Artificial Clusters:**
+**Migration / Artificial clusters:**
 (**New Urban Zones**) Muslims can be **reconcentrated** into 50–80 new Province-designated development corridors via education, economy, and settlement projects.
 **Example**: *Purvanchal Belt, Hyderabad–Aurangabad Axis, Coastal Karnataka, Bhopal–Indore Crescent, Greater Kolkata Ring, etc.*
 
@@ -33,11 +33,11 @@
 
 #### Territory Clustering of Indian Muslim Province 
 
-|**Dār Name**|**Region & States**|**Wilāyah Count**|**Cultural/Strategic Anchors**|
-|---|---|---|---|
-|**Dār al-Hind al-Gharbī** _(Western Hind)_|UP (West + East), Delhi, Rajasthan, MP, Gujarat|100–110|Lucknow, Delhi, Bareilly, Aligarh, Bhopal|
-|**Dār al-Hind al-Sharqī** _(Eastern Hind)_|Bihar, West Bengal, Assam, Jharkhand|80–90|Kishanganj, Murshidabad, Malda, Dhubri, Purnia|
-|**Dār al-Dakkan** _(Deccan & South)_|Telangana, Maharashtra, Karnataka, Kerala, Kashmir (optional), Tamil Nadu (select)|60–70|Hyderabad, Kozhikode, Mumbai, Aurangabad, Srinagar|
+| **Name**                                   | **Region & States**                                                                | **Wilāyah Count** | **Cultural/Strategic Anchors**                     |
+| ------------------------------------------ | ---------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------- |
+| **Dār al-Hind al-Gharbī** _(Western Hind)_ | UP (West + East), Delhi, Rajasthan, MP, Gujarat                                    | 100–110           | Lucknow, Delhi, Bareilly, Aligarh, Bhopal          |
+| **Dār al-Hind al-Sharqī** _(Eastern Hind)_ | Bihar, West Bengal, Assam, Jharkhand                                               | 80–90             | Kishanganj, Murshidabad, Malda, Dhubri, Purnia     |
+| **Dār al-Dakkan** _(Deccan & South)_       | Telangana, Maharashtra, Karnataka, Kerala, Kashmir (optional), Tamil Nadu (select) | 60–70             | Hyderabad, Kozhikode, Mumbai, Aurangabad, Srinagar |
 
 
 - **Dār al-Hind al-Gharbī** would be the **largest**, with dense Wilāyah populations across UP and central India. It would house major Islamic institutions, courts, and urban markets.
