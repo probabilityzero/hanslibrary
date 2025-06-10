@@ -25,20 +25,18 @@
 
 *→ This yields ~200 Provinces naturally.*
 
-**Migration / Artificial clusters:**
-(**New Urban Zones**) Muslims can be **reconcentrated** into 50–80 new Province-designated development corridors via education, economy, and settlement projects.
+**Migration / Artificial clusters:** Muslims can be **reconcentrated** into 50–80 new Province-designated development corridors via education, economy, and settlement projects.
 **Example**: *Purvanchal Belt, Hyderabad–Aurangabad Axis, Coastal Karnataka, Bhopal–Indore Crescent, Greater Kolkata Ring, etc.*
 
 ---
 
-#### Territory Clustering of Indian Muslim Province 
+#### Territories of Indian Muslim Province 
 
 | **Name**                                   | **Region & States**                                                                | **Wilāyah Count** | **Cultural/Strategic Anchors**                     |
 | ------------------------------------------ | ---------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------- |
 | **Dār al-Hind al-Gharbī** _(Western Hind)_ | UP (West + East), Delhi, Rajasthan, MP, Gujarat                                    | 100–110           | Lucknow, Delhi, Bareilly, Aligarh, Bhopal          |
 | **Dār al-Hind al-Sharqī** _(Eastern Hind)_ | Bihar, West Bengal, Assam, Jharkhand                                               | 80–90             | Kishanganj, Murshidabad, Malda, Dhubri, Purnia     |
 | **Dār al-Dakkan** _(Deccan & South)_       | Telangana, Maharashtra, Karnataka, Kerala, Kashmir (optional), Tamil Nadu (select) | 60–70             | Hyderabad, Kozhikode, Mumbai, Aurangabad, Srinagar |
-
 
 - **Dār al-Hind al-Gharbī** would be the **largest**, with dense Wilāyah populations across UP and central India. It would house major Islamic institutions, courts, and urban markets.
 - **Dār al-Hind al-Sharqī** focuses on **high Muslim population density but weaker economic base**, ideal for Dawah, upliftment, and border diplomacy (e.g., Bangladesh).
@@ -57,7 +55,6 @@
 | **Large Villages**              | ~5K–10K    | Agro-market and cultural hubs; Primary schools, co-ops, masājid, local farms, regional storage                                                              |
 | **Neighbouring Small Villages** | ~1K–5K     | Agricultural + residential; Basic infrastructure, family-based agriculture, masjid                                                                          |
 
----
 
 A good example:
 
