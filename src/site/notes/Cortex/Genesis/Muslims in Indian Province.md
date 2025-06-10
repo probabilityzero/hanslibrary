@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Genesis/Muslims in Indian Province.md","permalink":"/genesis/muslims-in-indian-province/"}
 ---
 
+# Muslims in Indian Province
 
 - **Indian Muslim Population**: ~215 million
 - **Province Size (Population per Unit)**: 0.5M–1.5M
