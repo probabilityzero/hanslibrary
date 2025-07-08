@@ -3,12 +3,12 @@
 ---
 
 
-## **[[Waypoint/Domains/The Foundation/The Foundation\|The Foundation]]** 
+## **[[Waypoint/Domains/The Foundation/The Foundation\|Waypoint/Domains/The Foundation/The Foundation]]** 
 This the umbrella organization for funding and that will incorporate:
 
-- [[Waypoint/Domains/The Foundation/Maʿhad al-ʿUmrān/Ministry of Research and Education/Academic & Research Council/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
-- [[Waypoint/Domains/The Foundation/Maʿhad al-ʿUmrān/Digital & Technological Innovation/Citizen ID\|Citizen ID]]: ID Database, integrated for authentication.
-- [[Waypoint/Domains/The Foundation/Maʿhad al-ʿUmrān/Ministry of Research and Education/Academic & Research Council/The Encyclopedia\|The Encyclopedia]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
+- [[Waypoint/Domains/The Foundation/The Authority/Ministry of Research and Education/Academic & Research Council/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
+- [[Waypoint/Domains/The Foundation/The Authority/Digital & Technological Innovation/Citizen ID\|Citizen ID]]: ID Database, integrated for authentication.
+- [[Waypoint/Domains/The Foundation/The Authority/Ministry of Research and Education/Academic & Research Council/The Encyclopedia\|The Encyclopedia]]: A real-time, continuously updated encyclopedia that acts as a living, GitHub-like repository of Knowledge Encyclopedia.
 -  **Open Challenges Archive**: Free, public repository of problems and simulations
 - **Open Education Standards**: Course metadata schema, learning progress interoperability, API specs  
 ## The Research and Education Division of House

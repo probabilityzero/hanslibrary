@@ -86,3 +86,4 @@ This phase is not just reactive, but preemptive and systemic—designed to disru
 ---
 
 This is not about hatred. It's about restoring **dignified Muslim leadership**, ethically and strategically, through bold, unapologetic action. **The goal is not revenge—but regeneration.**
+[[Cortex/Genesis/What should Muslims do\|What should Muslims do]]
