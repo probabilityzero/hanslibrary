@@ -26,7 +26,7 @@
 - Nuts/seeds for healthy fats
 - Berries/fruit for polyphenols
 - Optional black coffee/green tea
-
+More
 - Fish oil (Omega-3) if not via diet
 - Vitamin D3 (if additional needed)
 - Multi-vitamin/mineral (if using)
@@ -40,7 +40,7 @@
 - Fruit (banana/berries) or
 - Nuts + dark chocolate or
 - Small protein shake (if needed for daily protein target)
-
+More
 - Probiotic capsule or fermented food if not at lunch
 - Light intake: fruit, yogurt, nuts, or salad.
 - _Optional green tea/black coffee if needed._
@@ -54,7 +54,7 @@
 - Healthy carbs (quinoa, sweet potato, brown rice)
 - Healthy fats (olive oil, avocado, seeds)
 - Fermented foods (kimchi, yogurt, etc.)
-
+More
 - **Calcimax water** (can take here instead of breakfast if preferred)
 - Magnesium if split dosing (optional)
 - Protein + complex carbs + vegetables + fats (dal/meat, rice/roti, veg, olive oil).
@@ -87,7 +87,7 @@
 - Non-starchy vegetables (zucchini, spinach, salad)
 - Small portion carbs if training day (quinoa, rice)
 - Healthy fats (olive oil drizzle, nuts)
-
+More
 - Magnesium (200–300 mg if aiding sleep/recovery)
 - Fish oil (if not taken earlier)
 - Optional: Glycine or collagen for sleep support
@@ -100,7 +100,7 @@
 
 - Wind down, minimal light, deep breathing, optional journaling.
 - Herbal tea or warm milk with turmeric (if desired)
-
+More
 - Magnesium (if not earlier)
 - Glycine/collagen (optional for sleep)
 - Ashwagandha (if not taken midday)
