@@ -43,8 +43,8 @@
 | [[Eκμάδεση/Projects & Research/Projects/Castle of Sun\|Castle of Sun]]                                                                          | \-          | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Codraw\|Codraw]]                                                                                        | \-          | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Mash D\|Mash D]]                                                                                        | \-          | Completed |
-| [[Waypoint/Utilities/Templates/ProjectsTemplate\|ProjectsTemplate]]                                                                             | \-          | Idea      |
 | [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Trade & Communication/New Software Standards/blackmarket.dev\|blackmarket.dev]] | \-          | Focus     |
+| [[Waypoint/Utilities/Templates/ProjectsTemplate\|ProjectsTemplate]]                                                                             | \-          | Idea      |
 
 { .block-language-dataview}
 
