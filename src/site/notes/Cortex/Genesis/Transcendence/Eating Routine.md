@@ -27,9 +27,6 @@
 - Berries/fruit for polyphenols
 - Optional black coffee/green tea
 
-**Supplements:**
-
-- **Calcimax water** (if using, can take here)
 - Fish oil (Omega-3) if not via diet
 - Vitamin D3 (if additional needed)
 - Multi-vitamin/mineral (if using)
