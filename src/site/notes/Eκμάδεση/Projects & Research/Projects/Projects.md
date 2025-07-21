@@ -12,10 +12,10 @@
 | [[Eκμάδεση/Projects & Research/Projects/Git CMS\|Git CMS]]                                                                                      | Tools       | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Textline\|Textline]]                                                                                    | Tools       | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Contact Form\|Contact Form]]                                                                            | Tools       | Idea      |
-| [[Eκμάδεση/Projects & Research/Projects/Scholarly ID (account)\|Scholarly ID (account)]]                                                        | Scholarly   | Idea      |
-| [[Eκμάδεση/Projects & Research/Projects/scholarly omics\|scholarly omics]]                                                                      | Scholarly   | \-        |
-| [[Eκμάδεση/Projects & Research/Projects/AI.Scholarly (RAG)/AI.Scholarly (RAG)\|AI.Scholarly (RAG)]]                                             | Scholarly   | Idea      |
-| [[Eκμάδεση/Projects & Research/Projects/Scholarly.org\|Scholarly.org]]                                                                          | Scholarly   | Focus     |
+| [[Eκμάδεση/Projects & Research/Projects/Scholarly/Scholarly.org\|Scholarly.org]]                                                                | Scholarly   | Focus     |
+| [[Eκμάδεση/Projects & Research/Projects/Scholarly/Scholarly ID (account)\|Scholarly ID (account)]]                                              | Scholarly   | Idea      |
+| [[Eκμάδεση/Projects & Research/Projects/Scholarly/scholarly omics\|scholarly omics]]                                                            | Scholarly   | \-        |
+| [[Eκμάδεση/Projects & Research/Projects/Scholarly/AI.Scholarly (RAG)\|AI.Scholarly (RAG)]]                                                      | Scholarly   | Idea      |
 | [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/GNOSIS, Inc/Biosis/Biosis\|Biosis]]                        | SaaS        | Idea      |
 | [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Technology & Engineering/Han's Labs/Physis\|Physis]]                            | SaaS        | \-        |
 | [[Eκμάδεση/Projects & Research/Projects/Motherframe\|Motherframe]]                                                                              | Motherframe | Idea      |
@@ -37,14 +37,14 @@
 | [[Eκμάδεση/Projects & Research/Projects/Evening News (Dear World)\|Evening News (Dear World)]]                                                  | Everyday    | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Task Force Monitor\|Task Force Monitor]]                                                                | Everyday    | Completed |
 | [[Cortex/Genesis/Shaman - Medical Intelligence\|Shaman - Medical Intelligence]]                                                                 | \-          | Idea      |
-| [[Eκμάδεση/Projects & Research/Das Nibelungenlied\|Das Nibelungenlied]]                                                                         | \-          | Idea      |
-| [[Eκμάδεση/Projects & Research/Projects/Fortress of Solitude\|Fortress of Solitude]]                                                            | \-          | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Jupyter Kernels\|Jupyter Kernels]]                                                                      | \-          | Idea      |
-| [[Eκμάδεση/Projects & Research/Projects/Castle of Sun\|Castle of Sun]]                                                                          | \-          | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Codraw\|Codraw]]                                                                                        | \-          | Idea      |
 | [[Eκμάδεση/Projects & Research/Projects/Mash D\|Mash D]]                                                                                        | \-          | Completed |
-| [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Trade & Communication/New Software Standards/blackmarket.dev\|blackmarket.dev]] | \-          | Focus     |
+| [[Eκμάδεση/Projects & Research/Engineering/Fortress of Solitude\|Fortress of Solitude]]                                                         | \-          | Idea      |
+| [[Eκμάδεση/Projects & Research/Engineering/Castle of Sun\|Castle of Sun]]                                                                       | \-          | Idea      |
 | [[Waypoint/Utilities/Templates/ProjectsTemplate\|ProjectsTemplate]]                                                                             | \-          | Idea      |
+| [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Trade & Communication/New Software Standards/blackmarket.dev\|blackmarket.dev]] | \-          | Focus     |
+| [[Library/个人档案/Novels/Das Nibelungenlied/Das Nibelungenlied\|Das Nibelungenlied]]                                                               | \-          | Idea      |
 
 { .block-language-dataview}
 
