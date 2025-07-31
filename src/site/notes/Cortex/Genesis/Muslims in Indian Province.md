@@ -3,7 +3,7 @@
 ---
 
 # Muslims in Indian Province
-
+[[Cortex/Genesis/Levels of Civilizations Administrations\|Levels of Civilizations Administrations]]
 - **Indian Muslim Population**: ~215 million
 - **Province Size (Population per Unit)**: 0.5M–1.5M
 - **Estimated Province Count**:
