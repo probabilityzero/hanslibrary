@@ -43,8 +43,8 @@
 | [[Eκμάδεση/Projects & Research/Engineering/Fortress of Solitude\|Fortress of Solitude]]                                                         | \-          | Idea      |
 | [[Eκμάδεση/Projects & Research/Engineering/Castle of Sun\|Castle of Sun]]                                                                       | \-          | Idea      |
 | [[Library/个人档案/Novels/Das Nibelungenlied/Das Nibelungenlied\|Das Nibelungenlied]]                                                               | \-          | Idea      |
-| [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Trade & Communication/New Software Standards/blackmarket.dev\|blackmarket.dev]] | \-          | Focus     |
 | [[Waypoint/Utilities/Templates/ProjectsTemplate\|ProjectsTemplate]]                                                                             | \-          | Idea      |
+| [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Trade & Communication/New Software Standards/blackmarket.dev\|blackmarket.dev]] | \-          | Focus     |
 
 { .block-language-dataview}
 
