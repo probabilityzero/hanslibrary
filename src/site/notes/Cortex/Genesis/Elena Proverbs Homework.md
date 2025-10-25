@@ -21,6 +21,7 @@
 8. Rome was not built in a day. – _Roma nu a fost construită într-o zi_
 9. Every cloud has a silver lining. – _Fiecare nor are o margine argintie_
 10. Let the cat out of the bag. - *A dezvălui un secret.* 
+11. Get the tiger by the tail. - *A se juca cu focul.* 
 ---
  
  - **Choose 2 words from the list below. Write down at least 7 colloquial idioms or proverbs (per each word) associated with these words: water, time, fire, heart, gold, hand, eye, lion, dog, cat, bird, blue, egg. Provide their Romanian equivalents.**  
