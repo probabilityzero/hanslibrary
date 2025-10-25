@@ -20,8 +20,7 @@ Below are some familiar proverbs and popular sayings.
 7. Practice makes perfect. – _Exercițiul desăvârșește omul_
 8. Rome was not built in a day. – _Roma nu a fost construită într-o zi_
 9. Every cloud has a silver lining. – _Fiecare nor are o margine argintie_
-10. Small crisis teaches resilience. – _Criza mică învață reziliența_
-
+10. Let the cat out of the bag. - *A dezvălui un secret.* 
 ---
 
 **Bird idioms (7 idioms, story-aligned)**
