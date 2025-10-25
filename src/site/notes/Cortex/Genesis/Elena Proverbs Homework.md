@@ -6,10 +6,10 @@
 
 ---
 
-**Individual work Variant IV**
+### **Individual work Variant IV**
 
 Below are some familiar proverbs and popular sayings.  
-• Provide an equivalent - close or rough – which exists in the Romanian language. For the others, suggest a possible translation, literal or free.9
+• Provide an equivalent - close or rough – which exists in the Romanian language. For the others, suggest a possible translation, literal or free.
 
 1. Beauty is in the eye of the beholder. – Frumusețea stă în ochii celui care o privește.
 2. No news is good news. – Dacă nu vin știri noi, e de bine.
