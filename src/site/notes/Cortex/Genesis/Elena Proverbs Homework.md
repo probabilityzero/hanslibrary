@@ -8,8 +8,8 @@
 
 ### **Individual work Variant IV**
 
-Below are some familiar proverbs and popular sayings.  
-• Provide an equivalent - close or rough – which exists in the Romanian language. For the others, suggest a possible translation, literal or free.
+**Below are some familiar proverbs and popular sayings.**  
+**• Provide an equivalent - close or rough – which exists in the Romanian language. For the others, suggest a possible translation, literal or free.**
 
 1. Beauty is in the eye of the beholder. – Frumusețea stă în ochii celui care o privește.
 2. No news is good news. – Dacă nu vin știri noi, e de bine.
@@ -22,9 +22,10 @@ Below are some familiar proverbs and popular sayings.
 9. Every cloud has a silver lining. – _Fiecare nor are o margine argintie_
 10. Let the cat out of the bag. - *A dezvălui un secret.* 
 ---
+ 
+ - **Choose 2 words from the list below. Write down at least 7 colloquial idioms or proverbs (per each word) associated with these words: water, time, fire, heart, gold, hand, eye, lion, dog, cat, bird, blue, egg. Provide their Romanian equivalents.**  
 
-**Bird idioms (7 idioms, story-aligned)**
-
+**Bird**
 1. Birds of a feather flock together. – _Cine se aseamănă, se adună_
 2. A bird in the hand is worth two in the bush. – _Nu da vrabia din mână pe cioara de pe gard_
 3. Kill two birds with one stone. – _A împușca doi iepuri dintr-un foc_
@@ -33,10 +34,7 @@ Below are some familiar proverbs and popular sayings.
 6. The early bird catches the worm. – _Cine se scoală de dimineață, departe ajunge_
 7. A night owl and an early bird. – _Bufniță de noapte și pasăre matinală_
 
----
-
-**Eye / Phraseological idioms (9 idioms, story-aligned)**
-
+**Eye**
 1. Keep one’s eyes peeled / open – _A fi vigilent_
 2. Bite one’s tongue – _A se abține să nu spună nimic_
 3. Blowing off steam – _A se descărca de tensiune_
@@ -49,7 +47,7 @@ Below are some familiar proverbs and popular sayings.
 
 ---
 
-• Make up a situation (280 words) in which to include at least three proverbs from the above exercises, as well as, at least 3 phraseological units.  
+ - **Make up a situation (280 words) in which to include at least three proverbs from the above exercises, as well as, at least 3 phraseological units.**  
 
 Maria was nervous about her first big presentation at university. On the way, the bus was late and her laptop battery warned low, so when she reached the hall she had only 30 minutes before her slot. She felt the clock like a weight on her chest, but she had practiced for days and believed that _practice makes perfect_. She heads to print the notes, only to notice a printer jam, which made her think she might _go out of the frying-pan, into the fire_. Without the notes in hand, she walked to the lecture hall, she noticed students chatting as _birds of a feather flock together_, everyone already forming small groups. 
 
