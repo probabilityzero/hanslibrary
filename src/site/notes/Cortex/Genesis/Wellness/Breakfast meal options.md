@@ -3,16 +3,7 @@
 ---
 
 
-
-### Content
-1. **All breakfast types**
-2. **All options inside each type**
-3. **Quantities + nutrition + what it does for you**
-4. **Steps (simple, fast)**
-
----
-
-## **1. BREAKFAST TYPES (your system)**
+# Breakfast Meal Options 
 
 The complete catalogue of everything you can use for BREAKFAST only, organized exactly in the logic of your system:  
 • breakfast = must be _a real meal_, not a snack  

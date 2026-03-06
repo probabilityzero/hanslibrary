@@ -8,7 +8,7 @@ _French 17th-century romantic epic,_ courtly intrigues, heroism, love. Not mains
 **2. Zettels Traum (~1.1M):**  
 _Experimental German modernist stream-of-consciousness on Edgar Allan Poe’s works._ Not mainstream, highly niche, IP clear. Hard to adapt, but its _hypertextual style could inspire avant-garde interactive fiction engines._
 
-**5. [[Library/个人档案/Novels/Clarissa\|Clarissa]] (~970K):**  
+**5. [[Library/个人档案/Novels/Clarissa/Clarissa\|Clarissa]] (~970K):**  
 _Epistolary novel on a woman resisting a rake’s seduction._ IP clear, historically significant but not mainstream now. Could be _modernized into a feminist thriller with social media/letters replacing original structure._
 
 **6. Poor Fellow My Country (~850K):**  
@@ -22,6 +22,8 @@ _Historical romance set in 15th-century Croatia._ Niche, not mainstream, IP like
 
 **10. War and Peace (~560–590K):**  
 _Russian historical epic, Napoleonic wars, society._ Mainstream classic, IP clear. Already adapted, but _interactive or VR narrative layering could create new IP pivot._
+
+---
 
 **1) Les Hommes de Bonne Volonté (Men of Good Will) – Jules Romains (~2M words)**  
 French 27-volume _social realist saga_ covering 1908–1933 Paris, layered with politics, labor movements, family dynamics.  

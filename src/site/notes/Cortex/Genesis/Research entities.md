@@ -3,7 +3,7 @@
 ---
 
 
-## **[[Waypoint/Domains/The Foundation/The Foundation\|Waypoint/Domains/The Foundation/The Foundation]]** 
+## **[[Waypoint/Domains/The Foundation/The Foundation\|The Foundation]]** 
 This the umbrella organization for funding and that will incorporate:
 
 - [[Waypoint/Domains/The Foundation/First Foundation/Ministry of Research and Education/Academic & Research Council/Research INDEX API\|Research INDEX API]]: (Integrated Database for Established Research) can serve as a comprehensive knowledge and publication aggregator, providing structured access to research papers, books, journals, reports, and other academic or non-academic written works.
@@ -12,13 +12,13 @@ This the umbrella organization for funding and that will incorporate:
 -  **Open Challenges Archive**: Free, public repository of problems and simulations
 - **Open Education Standards**: Course metadata schema, learning progress interoperability, API specs  
 ## The Research and Education Division of House
-### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/GNOSIS, Inc/GNOSIS, Inc\|GNOSIS, Inc]]
-- **[[Eκμάδεση/Projects & Research/Projects/Scholarly/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
+### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/GNOSIS, Inc\|GNOSIS, Inc]]
+- **[[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Scholarly/Scholarly.org\|Scholarly.org]]:** The central client app for Research INDEX—a dynamic, interactive, and universally accessible repository for research.
 	- User libraries, connected notes, ai chats and so on.
 	- [[scholarly ID\|scholarly ID]] :  Scholarly and User Management and Authentication Backend.
-	- [[Eκμάδεση/Projects & Research/Projects/Scholarly/Scholarly City\|Scholarly City]]: A potential social network or collaborative space that connects folks, discussion, and facilitates data sharing.
+	- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Scholarly/Scholarly City\|Scholarly City]]: A potential social network or collaborative space that connects folks, discussion, and facilitates data sharing.
 		- Forums, Private communities 
-	- [[Cortex/Genesis/Scholarly IDE\|Scholarly IDE]]: The Ultimate One
+	- [[Cortex/Genesis/Scholarly Notebook\|Scholarly Notebook]]: The Ultimate One
 		- Cross-platform
 		- Local-first, file based 
 		- Personal and Group Servers > Multiple Vaults
@@ -26,24 +26,24 @@ This the umbrella organization for funding and that will incorporate:
 		- Storage
 		- Co-lab on specific files or directories 
 	- [[Scholarly Maps\|Scholarly Maps]]
-	- [[Eκμάδεση/Projects & Research/Projects/Scholarly/scholarly omics\|scholarly omics]]
-	- [[Eκμάδεση/Projects & Research/Projects/Scholarly/scholarly linguistics\|scholarly linguistics]]
-	- [[Eκμάδεση/Projects & Research/Projects/Scholarly/Scholarly ilm\|Scholarly ilm]]
+	- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Scholarly/scholarly omics\|scholarly omics]]
+	- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Scholarly/scholarly linguistics\|scholarly linguistics]]
+	- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Scholarly/Scholarly ilm\|Scholarly ilm]]
 	- [[Scholarly physics\|Scholarly physics]]
-- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/GNOSIS, Inc/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
-- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Technology & Engineering/Han's Labs/Physis\|Physis]]
+- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Biosis/Biosis\|Biosis]]: A cloud-native software suite that empowers scientists, engineers, and creators to design, simulate, and build living systems—from DNA sequences to full synthetic organisms.
+- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/GNOSIS, Inc/Physis\|Physis]]
 
-### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/COMET, Inc/COMET, Inc\|COMET, Inc]]
+### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Technology/Han's Labs/The Software Labs/Comet Technologies\|Comet Technologies]]
 A Federated Online Study Platform Student management and learning managemenet app build on the protocols of  The Foundation
 - [[Alpenglow\|Alpenglow]]
 
-### **[[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/NERVE, Inc\|NERVE, Inc]]** 
+### **[[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/NERVE, Inc/NERVE, Inc\|NERVE, Inc]]** 
 This a separate entity representing the research institutions. These institutions can publish independently, but may also interface with the Foundation’s components.
-- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/Alanoma Research/Alanoma Research\|Alanoma Research]]
-- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/Elixir Research\|Elixir Research]]
-- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/Allele Research\|Allele Research]]
+- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/NERVE, Inc/Alanoma Research/Alanoma Research\|Alanoma Research]]
+- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/NERVE, Inc/Elixir Research\|Elixir Research]]
+- [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/NERVE, Inc/Allele Research\|Allele Research]]
 
-### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Research & Education/NERVE, Inc/The Cognition League/The Cognition League\|The Cognition League]]
+### [[Waypoint/Domains/The Great Houses/House of El Han/Ministry of Education & Research/NERVE, Inc/New Olympians/New Olympians\|New Olympians]]
 
 
 ## **Publications & Dissemination** 
